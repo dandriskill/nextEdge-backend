@@ -1,30 +1,33 @@
-const rp = require('request-promise')
-const $ = require('cheerio')
+const rp = require('request-promise-native')
 const _ = require('underscore')
 
-const url = 'https://stackoverflow.com/jobs'
-
-// rp(url)
-//     .then(function(html){
-//         //success!
-//         
-//     })
-//     .catch(function(err){
-//         //handle error
-//     });
-
+const baseUrl = 'https://stackoverflow.com/jobs'
 
 function downloadPages(pageCount) {
     let pagePromises =
-        _.map(_.range(pageCount)
+        _.map(_.range(1, pageCount)
               , (count) => {
-                  return rp(url + '&pg=' + count)
+                  let url = baseUrl + '?pg=' + count + '&s=0'
+                  return rp(url)
               })
-    Promise.all(pagePromises)
-        .then((html) => {
-            console.log(html.length())
-            // console.log($('.post-tag', html).text())
+    
+    return Promise.all(pagePromises)
+        .then((htmlPages) => {
+            return new Promise((resolve, reject) => {
+                let timeoutID = setTimeout(() => {
+                    clearTimeout(timeoutID)
+                    resolve(htmlPages.flat())
+                }, 1000)
+            })
+        }).catch((err) => {
+            console.log("error: ")
+            console.log(err)
         })
 }
 
-downloadPages(1)
+const fs = require('fs')
+
+downloadPages(5)
+    .then((pages) => {
+        fs.writeFileSync('./data/jobs-concat.html', pages)
+    })

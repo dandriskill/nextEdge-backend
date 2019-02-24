@@ -1,0 +1,1171 @@
+[
+  {
+    "tile": "Software Engineer- Equities Portfolio Implementation",
+    "company": "JPMorgan Chase & Co.",
+    "salary": 100,
+    "skills": [
+      "java",
+      "web-services",
+      "design",
+      "jira",
+      "middleware"
+    ]
+  },
+  {
+    "tile": "Senior QA Engineer",
+    "company": "Force Therapeutics",
+    "salary": 120,
+    "skills": [
+      "python",
+      "django",
+      "selenium",
+      "automated-tests",
+      "unit-testing",
+      "sysadmin"
+    ]
+  },
+  {
+    "tile": "Senior iOS Engineer",
+    "company": "Handy",
+    "salary": 135,
+    "skills": [
+      "ios",
+      "objective-c",
+      "swift"
+    ]
+  },
+  {
+    "tile": "Entry-Level Financial Systems Analyst (0-2 Years Exp)",
+    "company": "GuardX",
+    "salary": 45,
+    "skills": [
+      "etl",
+      "sql",
+      "excel"
+    ]
+  },
+  {
+    "tile": "Senior Software Engineer",
+    "company": "LoanStreet",
+    "salary": 110,
+    "skills": [
+      "reactjs",
+      "graphql",
+      "python",
+      "domain-driven-design",
+      "event-sourcing"
+    ]
+  },
+  {
+    "tile": "A really good Node.js engineer",
+    "company": "The Farmer's Dog",
+    "salary": 90,
+    "skills": [
+      "node.js",
+      "docker",
+      "amazon-web-services",
+      "reactjs",
+      "redux"
+    ]
+  },
+  {
+    "tile": "Senior Software Engineer, Payments",
+    "company": "Skillshare",
+    "salary": 120,
+    "skills": [
+      "stripe-payments",
+      "paypal",
+      "yii",
+      "google-play",
+      "php"
+    ]
+  },
+  {
+    "tile": "Senior Software Engineer, Community",
+    "company": "Skillshare",
+    "salary": 120,
+    "skills": [
+      "php",
+      "sass",
+      "reactjs",
+      "webpack"
+    ]
+  },
+  {
+    "tile": "Senior Site Reliability Engineer",
+    "company": "Skillshare",
+    "salary": 135,
+    "skills": [
+      "amazon-web-services",
+      "docker",
+      "redis",
+      "security",
+      "node.js",
+      "sysadmin"
+    ]
+  },
+  {
+    "tile": "VP Engineering of Fast Growing, Highly Profitable New York City Based Startup",
+    "company": "Flexhire",
+    "salary": 100,
+    "skills": [
+      "php",
+      "javascript",
+      "amazon-web-services"
+    ]
+  },
+  {
+    "tile": "C# Integration Engineer",
+    "company": "PowerInbox",
+    "salary": 90,
+    "skills": [
+      "c#",
+      "azure",
+      ".net"
+    ]
+  },
+  {
+    "tile": "Lead Engineer: DevOps / SecOps",
+    "company": "SpinCar",
+    "salary": 100,
+    "skills": [
+      "amazon-web-services",
+      "python",
+      "linux",
+      "git",
+      "amazon-s3",
+      "sysadmin"
+    ]
+  },
+  {
+    "tile": "Senior Software Engineer",
+    "company": "Kard",
+    "salary": 125,
+    "skills": [
+      "reactjs",
+      "node.js",
+      "javascript",
+      "serverless-framework",
+      "amazon-web-services"
+    ]
+  },
+  {
+    "tile": "NodeJS Development Lead",
+    "company": "iCapital Network",
+    "salary": 100,
+    "skills": [
+      "node.js",
+      "express",
+      "javascript"
+    ]
+  },
+  {
+    "tile": "Mid - Senior Java Developer",
+    "company": "Boyle Software",
+    "salary": 130,
+    "skills": [
+      "java",
+      "java-ee",
+      "sql",
+      "tdd",
+      "api"
+    ]
+  },
+  {
+    "tile": "Full-Stack Developer (React, nodeJS, PHP)",
+    "company": "Great Jakes",
+    "salary": 100,
+    "skills": [
+      "reactjs",
+      "php",
+      "node.js",
+      "mysql",
+      "elasticsearch"
+    ]
+  },
+  {
+    "tile": "Front-end Software Engineer- healthcare technology",
+    "company": "Pulse Digital",
+    "salary": 90,
+    "skills": [
+      "reactjs",
+      "javascript",
+      "node.js"
+    ]
+  },
+  {
+    "tile": "Full Stack Developer - Ruby/Rails",
+    "company": "iCapital Network",
+    "salary": 100,
+    "skills": [
+      "ruby-on-rails",
+      "ruby",
+      "reactjs",
+      "redux",
+      "python"
+    ]
+  },
+  {
+    "tile": "Senior Software Engineer",
+    "company": "33Across",
+    "salary": 120,
+    "skills": [
+      "javascript",
+      "node.js",
+      "ecmascript-5",
+      "ecmascript-6",
+      "sql"
+    ]
+  },
+  {
+    "tile": "Front office Java developer - Equity Trading",
+    "company": "MThree Consulting",
+    "salary": 85,
+    "skills": [
+      "java",
+      "java-ee",
+      "web-services",
+      "multithreading"
+    ]
+  },
+  {
+    "tile": "Senior Full Stack Engineer",
+    "company": "Force Therapeutics",
+    "salary": 130,
+    "skills": [
+      "python",
+      "django",
+      "javascript",
+      "jquery",
+      "css"
+    ]
+  },
+  {
+    "tile": "Team Lead/Sr. Software Engineer",
+    "company": "Daugherty Business Solutions",
+    "salary": 140,
+    "skills": [
+      "java",
+      "spring-boot",
+      "reactjs"
+    ]
+  },
+  {
+    "tile": "Senior Scala Engineer",
+    "company": "PowerInbox",
+    "salary": 100,
+    "skills": [
+      "scala",
+      "hadoop",
+      "sql",
+      "aws",
+      "devops"
+    ]
+  },
+  {
+    "tile": "Senior Software Engineer",
+    "company": "Consumer Reports",
+    "salary": 100,
+    "skills": [
+      "javascript",
+      "java",
+      "oracle",
+      "restful",
+      "spring"
+    ]
+  },
+  {
+    "tile": "Lead Software Engineer",
+    "company": "Consumer Reports",
+    "salary": 155,
+    "skills": [
+      "php",
+      "laravel",
+      "java",
+      "reactjs",
+      "spring"
+    ]
+  },
+  {
+    "tile": "Back-End Engineer @ Burrow disrupting Retail Tech!",
+    "company": "Burrow",
+    "salary": 80,
+    "skills": [
+      "node.js",
+      "web-services",
+      "python",
+      "amazon-web-services"
+    ]
+  },
+  {
+    "tile": "Jr. Software QA Associate",
+    "company": "Compliance Solutions Strategies",
+    "salary": 60,
+    "skills": [
+      "selenium",
+      "qa",
+      "testing",
+      "java",
+      "javascript"
+    ]
+  },
+  {
+    "tile": "Software Engineers",
+    "company": "Daugherty Business Solutions",
+    "salary": 100,
+    "skills": [
+      "java",
+      "spring",
+      "reactjs"
+    ]
+  },
+  {
+    "tile": "Director of Engineering",
+    "company": "7 Cups",
+    "salary": 170,
+    "skills": [
+      "reactjs",
+      "javascript",
+      "php",
+      "react-native",
+      "node.js"
+    ]
+  },
+  {
+    "tile": "Computational Biologist I - (Ahmet)",
+    "company": "Memorial Sloan Kettering Cancer Center",
+    "salary": 75,
+    "skills": [
+      "bioinformatics",
+      "sequence",
+      "lis"
+    ]
+  },
+  {
+    "tile": "Computational Biologist, Sr I - (Richard K)",
+    "company": "Memorial Sloan Kettering Cancer Center",
+    "salary": 75,
+    "skills": [
+      "r",
+      "matlab",
+      "python",
+      "unix",
+      "java"
+    ]
+  },
+  {
+    "tile": "Bioinformatics Software Engineer (Solid Tumor Team) - (Michelle K)",
+    "company": "Memorial Sloan Kettering Cancer Center",
+    "salary": 75,
+    "skills": [
+      "r",
+      "python",
+      "bioinformatics"
+    ]
+  },
+  {
+    "tile": "Bioinformatics Software Engineer I -  Oliver",
+    "company": "Memorial Sloan Kettering Cancer Center",
+    "salary": 85,
+    "skills": [
+      "python-3.x",
+      "flask",
+      "javascript",
+      "angularjs",
+      "java"
+    ]
+  },
+  {
+    "tile": "Lead Software Engineer",
+    "company": "M3 USA Corporation",
+    "salary": 130,
+    "skills": [
+      "reactjs",
+      "vue.js",
+      "graphql",
+      "amazon-web-services",
+      "node.js"
+    ]
+  },
+  {
+    "tile": "Sr. Software Engineer (Java) @ Cryptocurrency Product Firm",
+    "company": "GuardX",
+    "salary": 150,
+    "skills": [
+      "java",
+      "oop",
+      "algorithm",
+      "data-structures",
+      "design-patterns"
+    ]
+  },
+  {
+    "tile": "Technical Product Manager",
+    "company": "Covera Health",
+    "salary": 100,
+    "skills": [
+      "web-services",
+      "product",
+      "product-management"
+    ]
+  },
+  {
+    "tile": "Machine Learning Engineer",
+    "company": "Rocketrip",
+    "salary": 130,
+    "skills": [
+      "python",
+      "machine-learning",
+      "sql",
+      "amazon-web-services",
+      "pandas"
+    ]
+  },
+  {
+    "tile": "Senior Backend Engineer",
+    "company": "Teachable",
+    "salary": 120,
+    "skills": [
+      "ruby-on-rails",
+      "ruby",
+      "cucumber",
+      "sinatra"
+    ]
+  },
+  {
+    "tile": "Software Engineering (Core Computer Science/Distributed Systems)",
+    "company": "GuardX",
+    "salary": 200,
+    "skills": [
+      "java",
+      "c++",
+      "python",
+      "oop",
+      "distributed-system"
+    ]
+  },
+  {
+    "tile": "Senior iOS or Android Developer",
+    "company": "Small Planet Digital",
+    "salary": 85,
+    "skills": [
+      "ios",
+      "android",
+      "objective-c",
+      "swift",
+      "kotlin"
+    ]
+  },
+  {
+    "tile": "Sr. Front End Engineer",
+    "company": "OpenSlate",
+    "salary": 140,
+    "skills": [
+      "reactjs",
+      "javascript",
+      "css",
+      "d3.js",
+      "angularjs"
+    ]
+  },
+  {
+    "tile": "Senior Front End Engineer",
+    "company": "This is Alice",
+    "salary": 120,
+    "skills": [
+      "reactjs",
+      "javascript",
+      "ruby-on-rails"
+    ]
+  },
+  {
+    "tile": "Senior Fullstack React Software Engineer (Central NJ)",
+    "company": "Web Solutions NYC and SkuNexus",
+    "salary": 50,
+    "skills": [
+      "graphql",
+      "mysql",
+      "php"
+    ]
+  },
+  {
+    "tile": "Front-end Developer with Angular expertise",
+    "company": "Boyle Software",
+    "salary": 90,
+    "skills": [
+      "angular",
+      "command-line-interface",
+      "javascript",
+      "rxjs",
+      "html"
+    ]
+  },
+  {
+    "tile": "Senior Software Engineer",
+    "company": "Handy",
+    "salary": 130,
+    "skills": [
+      "ruby-on-rails",
+      "angular",
+      "reactjs",
+      "docker",
+      "kubernetes"
+    ]
+  },
+  {
+    "tile": "Damn Good DevOps Engineer",
+    "company": "Vroom",
+    "salary": 130,
+    "skills": [
+      "amazon-web-services",
+      "google-cloud-platform",
+      "kubernetes",
+      "python",
+      "terraform"
+    ]
+  },
+  {
+    "tile": "Awesome Salesforce Developer",
+    "company": "Vroom",
+    "salary": 140,
+    "skills": [
+      "node.js",
+      "apex",
+      "reactjs",
+      "salesforce",
+      "salesforce-lightning"
+    ]
+  },
+  {
+    "tile": "Mobile Cyber Vulnerability Researcher",
+    "company": "JHU Applied Physics Laboratory",
+    "salary": 110,
+    "skills": [
+      "android",
+      "ios",
+      "mobile",
+      "ida",
+      "arm"
+    ]
+  },
+  {
+    "tile": "Radar Software Engineer",
+    "company": "JHU Applied Physics Laboratory",
+    "salary": 120,
+    "skills": [
+      "software-design",
+      "algorithm",
+      "gpu",
+      "user-interface"
+    ]
+  },
+  {
+    "tile": "Data Engineer",
+    "company": "H1",
+    "salary": 90,
+    "skills": [
+      "scala",
+      "apache-spark",
+      "sql",
+      "etl",
+      "amazon-web-services"
+    ]
+  },
+  {
+    "tile": "Fullstack Security Engineer",
+    "company": "Handy",
+    "salary": 120,
+    "skills": [
+      "ruby-on-rails",
+      "docker",
+      "kubernetes",
+      "security",
+      "continuous-integration"
+    ]
+  },
+  {
+    "tile": "Senior Data Engineer",
+    "company": "H1",
+    "salary": 130,
+    "skills": [
+      "scala",
+      "apache-spark",
+      "amazon-web-services",
+      "elastic-beanstalk",
+      "amazon-emr"
+    ]
+  },
+  {
+    "tile": "Senior Full Stack Product Engineer - Tech Lead",
+    "company": "H1",
+    "salary": 120,
+    "skills": [
+      "reactjs",
+      "postgresql",
+      "elasticsearch",
+      "node.js",
+      "typescript"
+    ]
+  },
+  {
+    "tile": "QA Tester & Analyst for education focused software",
+    "company": "Atomic Software, Inc.",
+    "salary": 0,
+    "skills": [
+      "testing",
+      "qa",
+      "jira",
+      "json",
+      "sql"
+    ]
+  },
+  {
+    "tile": "Senior Frontend Engineer",
+    "company": "Common Living Inc.",
+    "salary": 120,
+    "skills": [
+      "reactjs",
+      "javascript",
+      "react-native",
+      "next.js",
+      "ruby-on-rails"
+    ]
+  },
+  {
+    "tile": "Senior Software Engineer",
+    "company": "Common Living Inc.",
+    "salary": 120,
+    "skills": [
+      "ruby-on-rails",
+      "ruby",
+      "postgresql",
+      "javascript",
+      "reactjs"
+    ]
+  },
+  {
+    "tile": "Senior Full Stack Engineer - Remote, USA ONLY",
+    "company": "SocialChorus",
+    "salary": 130,
+    "skills": [
+      "ruby",
+      "javascript",
+      "reactjs",
+      "backbone.js",
+      "amazon-web-services"
+    ]
+  },
+  {
+    "tile": "Security Engineer",
+    "company": "RapidSOS",
+    "salary": 90,
+    "skills": [
+      "python",
+      "security",
+      "amazon-web-services",
+      "kubernetes",
+      "penetration-testing",
+      "sysadmin"
+    ]
+  },
+  {
+    "tile": "Site Reliability Engineer",
+    "company": "RapidSOS",
+    "salary": 90,
+    "skills": [
+      "amazon-web-services",
+      "python",
+      "bash",
+      "kubernetes",
+      "docker",
+      "sysadmin"
+    ]
+  },
+  {
+    "tile": "Senior Software Engineer",
+    "company": "BentoBox",
+    "salary": 120,
+    "skills": [
+      "reactjs",
+      "django",
+      "python",
+      "javascript",
+      "redux"
+    ]
+  },
+  {
+    "tile": "Senior Front End Developer",
+    "company": "DeskNet Inc.",
+    "salary": 80,
+    "skills": [
+      "javascript",
+      "angularjs",
+      "typescript",
+      "html5",
+      "gwt"
+    ]
+  },
+  {
+    "tile": "Sr Java SW Engineer/Architect",
+    "company": "DeskNet Inc.",
+    "salary": 80,
+    "skills": [
+      "java",
+      "java-ee",
+      "angularjs",
+      "html5",
+      "css3"
+    ]
+  },
+  {
+    "tile": "Mid- Level Software Engineer",
+    "company": "Aecom",
+    "salary": 80,
+    "skills": [
+      "java",
+      "c++",
+      "java-ee",
+      "sql",
+      "c#"
+    ]
+  },
+  {
+    "tile": "senior backend developer for a startup that doesn't suck",
+    "company": "MadHive",
+    "salary": 100,
+    "skills": [
+      "go",
+      "tensorflow",
+      "google-cloud-platform"
+    ]
+  },
+  {
+    "tile": "Software Engineer (Operation Optimization)",
+    "company": "Menusifu, Inc.",
+    "salary": 130,
+    "skills": [
+      "node.js",
+      "javascript",
+      "react",
+      "json",
+      "xhtml"
+    ]
+  },
+  {
+    "tile": "Senior Back-end developer",
+    "company": "Menusifu, Inc.",
+    "salary": 130,
+    "skills": [
+      "java",
+      "node.js",
+      "sql",
+      "mongodb",
+      "json"
+    ]
+  },
+  {
+    "tile": "Senior DevOps Engineer",
+    "company": "Action Verb",
+    "salary": 100,
+    "skills": [
+      "chef",
+      "amazon-web-services",
+      "mysql",
+      "ansible",
+      "azure",
+      "sysadmin"
+    ]
+  },
+  {
+    "tile": "Senior Frontend Engineer (React/JavaScript)",
+    "company": "Action Verb",
+    "salary": 120,
+    "skills": [
+      "reactjs",
+      "javascript",
+      "react-redux",
+      "sass",
+      "unit-testing"
+    ]
+  },
+  {
+    "tile": "Remote DevOps Systems Engineer with Drupal hosting exposure & CI/CD experience",
+    "company": "Amazee",
+    "salary": 75,
+    "skills": [
+      "docker",
+      "drupal",
+      "kubernetes",
+      "continuous-integration",
+      "continuous-delivery",
+      "sysadmin"
+    ]
+  },
+  {
+    "tile": "Cloud Infrastructure Engineer",
+    "company": "Contrast Security",
+    "salary": 90,
+    "skills": [
+      "amazon-web-services",
+      "ansible",
+      "python",
+      "terraform",
+      "docker",
+      "sysadmin"
+    ]
+  },
+  {
+    "tile": "Senior Javascript Developer With VSTO / Office.js Experience",
+    "company": "Macabacus",
+    "salary": 50,
+    "skills": [
+      "office-js",
+      "javascript",
+      ".net",
+      "vsto",
+      "excel"
+    ]
+  },
+  {
+    "tile": "Data Scientist",
+    "company": "JHU Applied Physics Laboratory",
+    "salary": 100,
+    "skills": [
+      "machine-learning",
+      "r",
+      "python",
+      "matlab",
+      "java"
+    ]
+  },
+  {
+    "tile": "Application Support Engineer",
+    "company": "Marathon Asset Management",
+    "salary": 125,
+    "skills": [
+      "c#",
+      "asp.net-mvc",
+      "react",
+      "javascript",
+      "jquery"
+    ]
+  },
+  {
+    "tile": "Software Engineer, Ads Integrations",
+    "company": "VidMob",
+    "salary": 65,
+    "skills": [
+      "api",
+      "java",
+      "python",
+      "scala"
+    ]
+  },
+  {
+    "tile": "iOS Developer",
+    "company": "Kangaroo",
+    "salary": 100,
+    "skills": [
+      "ios",
+      "swift",
+      "objective-c"
+    ]
+  },
+  {
+    "tile": "Technical Delivery Manager",
+    "company": "Appian",
+    "salary": 120,
+    "skills": [
+      "project-management",
+      "web-services",
+      "erp",
+      "bpm",
+      "workflow"
+    ]
+  },
+  {
+    "tile": "Senior Data Engineer",
+    "company": "Seva",
+    "salary": 100,
+    "skills": [
+      "python",
+      "etl",
+      "solr",
+      "machine-learning",
+      "amazon-web-services"
+    ]
+  },
+  {
+    "tile": "Senior Full Stack Engineer",
+    "company": "Seva",
+    "salary": 100,
+    "skills": [
+      "javascript",
+      "vue.js",
+      "node.js",
+      "css",
+      "etl"
+    ]
+  },
+  {
+    "tile": "Senior Front-End Engineer",
+    "company": "Dataquest",
+    "salary": 100,
+    "skills": [
+      "python",
+      "django",
+      "reactjs",
+      "graphql",
+      "websocket"
+    ]
+  },
+  {
+    "tile": "Senior Cloud Infrastructure Administrator",
+    "company": "BlueModus",
+    "salary": 90,
+    "skills": [
+      "azure",
+      "amazon-web-services",
+      "asp.net-mvc",
+      ".net",
+      "sql"
+    ]
+  },
+  {
+    "tile": "Technical Consultant",
+    "company": "Appian",
+    "salary": 80,
+    "skills": [
+      "java",
+      "python",
+      "sql",
+      "database",
+      "api"
+    ]
+  },
+  {
+    "tile": "Lead Front-End Engineer (InsurTech)",
+    "company": "sailteam.io",
+    "salary": 100,
+    "skills": [
+      "reactjs",
+      "python",
+      "node.js",
+      "amazon-web-services",
+      "react-redux"
+    ]
+  },
+  {
+    "tile": "Senior Technical Product Manager (m/f/d)",
+    "company": "Coya AG",
+    "salary": null,
+    "skills": [
+      "agile",
+      "looker",
+      "excel"
+    ]
+  },
+  {
+    "tile": "Software Engineer (Full stack, new product, great perks)",
+    "company": "Smartly.io",
+    "salary": null,
+    "skills": [
+      "reactjs",
+      "node.js",
+      "postgresql",
+      "typescript",
+      "kotlin"
+    ]
+  },
+  {
+    "tile": "Senior DevOps Engineer",
+    "company": "Kyruus",
+    "salary": 125,
+    "skills": [
+      "cloud",
+      "amazon-web-services",
+      "microservices",
+      "jenkins"
+    ]
+  },
+  {
+    "tile": "Principal Software Engineer - Backend",
+    "company": "Kyruus",
+    "salary": 125,
+    "skills": [
+      "python",
+      "amazon-web-services",
+      "saas"
+    ]
+  },
+  {
+    "tile": "Software Engineer (Android / iOS)",
+    "company": "Gravity Technologies",
+    "salary": 120,
+    "skills": [
+      "ios",
+      "android",
+      "mobile",
+      "multithreading",
+      "push-notification"
+    ]
+  },
+  {
+    "tile": "Software Engineer (Backend)",
+    "company": "Gravity Technologies",
+    "salary": 120,
+    "skills": [
+      "go",
+      "ruby",
+      "ruby-on-rails",
+      "redis",
+      "postgresql"
+    ]
+  },
+  {
+    "tile": "Full Stack Developer",
+    "company": "Kunz, Leigh and Associates",
+    "salary": 40,
+    "skills": [
+      "mvc",
+      "angular",
+      "java",
+      "asp.net-web-api",
+      "database"
+    ]
+  },
+  {
+    "tile": "Full Stack Architect",
+    "company": "Nagarro",
+    "salary": 900,
+    "skills": [
+      "amazon-web-services",
+      "project-management",
+      "python",
+      "angular-fullstack"
+    ]
+  },
+  {
+    "tile": "Android developer",
+    "company": "mycujoo",
+    "salary": null,
+    "skills": [
+      "android",
+      "java",
+      "mobile",
+      "kotlin",
+      "rx-java2"
+    ]
+  },
+  {
+    "tile": "iOS developer",
+    "company": "mycujoo",
+    "salary": null,
+    "skills": [
+      "ios",
+      "objective-c",
+      "swift",
+      "functional-programming",
+      "mobile"
+    ]
+  },
+  {
+    "tile": "VP Engineering (m/f)",
+    "company": "MEDWING GmbH",
+    "salary": null,
+    "skills": [
+      "ruby-on-rails",
+      "reactjs",
+      "go",
+      "aws-lambda",
+      "amazon-ec2"
+    ]
+  },
+  {
+    "tile": "Experienced DevOps Engineer - Make Cities Better",
+    "company": "PayLock",
+    "salary": 80,
+    "skills": [
+      "amazon-web-services",
+      "active-directory",
+      "sql-server",
+      "automation",
+      "mysql",
+      "sysadmin"
+    ]
+  },
+  {
+    "tile": "Head of Data Science",
+    "company": "iMoney Group",
+    "salary": 84,
+    "skills": [
+      "r",
+      "python",
+      "hadoop",
+      "knime",
+      "sql"
+    ]
+  },
+  {
+    "tile": "Senior Backend Developer",
+    "company": "quip",
+    "salary": 125,
+    "skills": [
+      "ruby-on-rails",
+      "ruby",
+      "postgresql",
+      "rspec"
+    ]
+  },
+  {
+    "tile": "Software Delivery Manager",
+    "company": "NextCapital",
+    "salary": 90,
+    "skills": [
+      "java",
+      "python",
+      "ruby",
+      "agile"
+    ]
+  },
+  {
+    "tile": "SharePoint / React Developer (Junior/Mid)",
+    "company": "Withum Digital",
+    "salary": 60,
+    "skills": [
+      "reactjs",
+      "react",
+      "javascript"
+    ]
+  },
+  {
+    "tile": "Mid - Senior Full Stack Developer (C# / React / SQL / Azure)",
+    "company": "AssureSign",
+    "salary": 90,
+    "skills": [
+      "c#",
+      "javascript",
+      "azure",
+      "react",
+      "typescript"
+    ]
+  },
+  {
+    "tile": "Senior Rails Engineer (100% Remote or Onsite in SF) MyTime Series B SaaS Startup",
+    "company": "Source Coders",
+    "salary": 130,
+    "skills": [
+      "ruby-on-rails",
+      "postgresql",
+      "mysql",
+      "angular",
+      "amazon-web-services"
+    ]
+  },
+  {
+    "tile": "",
+    "company": "",
+    "salary": null,
+    "skills": []
+  }
+]
