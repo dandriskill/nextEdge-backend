@@ -35,6 +35,7 @@ function build() {
         })
 
     let graphJson = graphlib.json.write(g)
+
     fs.writeFileSync('./data/skills.json', JSON.stringify(graphJson, null, 4))
 }
 
