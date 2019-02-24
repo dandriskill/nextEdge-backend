@@ -8,4 +8,8 @@ app.get('/jobs', (req, res) => {
     res.send(jobs)
 })
 
+app.get('/learning/:skill', (req, res) => {
+    res.send(func(req.params.skill))
+})
+
 app.listen(port)
