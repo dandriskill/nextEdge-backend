@@ -44,3 +44,4 @@ let jobs =
 
 fs.writeFileSync('./data/jobs.json', JSON.stringify(jobs, null, 2), 'utf-8')
 
+exports.jobs = jobs

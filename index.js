@@ -1,33 +1,11 @@
-const rp = require('request-promise-native')
-const _ = require('underscore')
+const express = require('express')
+const app = express()
+const port = 3000
 
-const baseUrl = 'https://stackoverflow.com/jobs'
+const jobs = require('./parse-jobs-html').jobs
 
-function downloadPages(pageCount) {
-    let pagePromises =
-        _.map(_.range(1, pageCount)
-              , (count) => {
-                  let url = baseUrl + '?pg=' + count + '&s=0'
-                  return rp(url)
-              })
-    
-    return Promise.all(pagePromises)
-        .then((htmlPages) => {
-            return new Promise((resolve, reject) => {
-                let timeoutID = setTimeout(() => {
-                    clearTimeout(timeoutID)
-                    resolve(htmlPages.flat())
-                }, 1000)
-            })
-        }).catch((err) => {
-            console.log("error: ")
-            console.log(err)
-        })
-}
+app.get('/jobs', (req, res) => {
+    res.send(jobs)
+})
 
-const fs = require('fs')
-
-downloadPages(5)
-    .then((pages) => {
-        fs.writeFileSync('./data/jobs-concat.html', pages)
-    })
+app.listen(port)
