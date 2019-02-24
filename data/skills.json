@@ -1,0 +1,7135 @@
+{
+    "options": {
+        "directed": true,
+        "multigraph": false,
+        "compound": false
+    },
+    "nodes": [
+        {
+            "v": "testing",
+            "value": 16
+        },
+        {
+            "v": "qa",
+            "value": 16
+        },
+        {
+            "v": "jira",
+            "value": 16
+        },
+        {
+            "v": "json",
+            "value": 24
+        },
+        {
+            "v": "sql",
+            "value": 92
+        },
+        {
+            "v": "mvc",
+            "value": 8
+        },
+        {
+            "v": "angular",
+            "value": 32
+        },
+        {
+            "v": "java",
+            "value": 154
+        },
+        {
+            "v": "asp.net-web-api",
+            "value": 8
+        },
+        {
+            "v": "database",
+            "value": 16
+        },
+        {
+            "v": "etl",
+            "value": 28
+        },
+        {
+            "v": "excel",
+            "value": 16
+        },
+        {
+            "v": "graphql",
+            "value": 28
+        },
+        {
+            "v": "mysql",
+            "value": 40
+        },
+        {
+            "v": "php",
+            "value": 46
+        },
+        {
+            "v": "office-js",
+            "value": 8
+        },
+        {
+            "v": "javascript",
+            "value": 180
+        },
+        {
+            "v": ".net",
+            "value": 20
+        },
+        {
+            "v": "vsto",
+            "value": 8
+        },
+        {
+            "v": "selenium",
+            "value": 18
+        },
+        {
+            "v": "reactjs",
+            "value": 194
+        },
+        {
+            "v": "react",
+            "value": 28
+        },
+        {
+            "v": "api",
+            "value": 22
+        },
+        {
+            "v": "python",
+            "value": 194
+        },
+        {
+            "v": "scala",
+            "value": 30
+        },
+        {
+            "v": "bioinformatics",
+            "value": 8
+        },
+        {
+            "v": "sequence",
+            "value": 4
+        },
+        {
+            "v": "lis",
+            "value": 4
+        },
+        {
+            "v": "r",
+            "value": 28
+        },
+        {
+            "v": "matlab",
+            "value": 16
+        },
+        {
+            "v": "unix",
+            "value": 8
+        },
+        {
+            "v": "docker",
+            "value": 64
+        },
+        {
+            "v": "drupal",
+            "value": 10
+        },
+        {
+            "v": "kubernetes",
+            "value": 54
+        },
+        {
+            "v": "continuous-integration",
+            "value": 18
+        },
+        {
+            "v": "continuous-delivery",
+            "value": 10
+        },
+        {
+            "v": "sysadmin",
+            "value": 90
+        },
+        {
+            "v": "node.js",
+            "value": 128
+        },
+        {
+            "v": "web-services",
+            "value": 32
+        },
+        {
+            "v": "amazon-web-services",
+            "value": 192
+        },
+        {
+            "v": "angularjs",
+            "value": 32
+        },
+        {
+            "v": "typescript",
+            "value": 32
+        },
+        {
+            "v": "html5",
+            "value": 16
+        },
+        {
+            "v": "gwt",
+            "value": 8
+        },
+        {
+            "v": "java-ee",
+            "value": 30
+        },
+        {
+            "v": "css3",
+            "value": 8
+        },
+        {
+            "v": "c++",
+            "value": 16
+        },
+        {
+            "v": "c#",
+            "value": 28
+        },
+        {
+            "v": "active-directory",
+            "value": 10
+        },
+        {
+            "v": "sql-server",
+            "value": 10
+        },
+        {
+            "v": "automation",
+            "value": 10
+        },
+        {
+            "v": "hadoop",
+            "value": 16
+        },
+        {
+            "v": "knime",
+            "value": 8
+        },
+        {
+            "v": "multithreading",
+            "value": 14
+        },
+        {
+            "v": "python-3.x",
+            "value": 8
+        },
+        {
+            "v": "flask",
+            "value": 8
+        },
+        {
+            "v": "ios",
+            "value": 40
+        },
+        {
+            "v": "android",
+            "value": 32
+        },
+        {
+            "v": "objective-c",
+            "value": 24
+        },
+        {
+            "v": "swift",
+            "value": 24
+        },
+        {
+            "v": "kotlin",
+            "value": 24
+        },
+        {
+            "v": "redux",
+            "value": 24
+        },
+        {
+            "v": "azure",
+            "value": 30
+        },
+        {
+            "v": "command-line-interface",
+            "value": 8
+        },
+        {
+            "v": "rxjs",
+            "value": 8
+        },
+        {
+            "v": "html",
+            "value": 8
+        },
+        {
+            "v": "apache-spark",
+            "value": 16
+        },
+        {
+            "v": "security",
+            "value": 28
+        },
+        {
+            "v": "penetration-testing",
+            "value": 10
+        },
+        {
+            "v": "bash",
+            "value": 10
+        },
+        {
+            "v": "ansible",
+            "value": 20
+        },
+        {
+            "v": "terraform",
+            "value": 18
+        },
+        {
+            "v": "asp.net-mvc",
+            "value": 16
+        },
+        {
+            "v": "ruby",
+            "value": 50
+        },
+        {
+            "v": "agile",
+            "value": 10
+        },
+        {
+            "v": "design",
+            "value": 8
+        },
+        {
+            "v": "middleware",
+            "value": 8
+        },
+        {
+            "v": "linux",
+            "value": 10
+        },
+        {
+            "v": "git",
+            "value": 10
+        },
+        {
+            "v": "amazon-s3",
+            "value": 10
+        },
+        {
+            "v": "express",
+            "value": 4
+        },
+        {
+            "v": "elasticsearch",
+            "value": 16
+        },
+        {
+            "v": "ruby-on-rails",
+            "value": 80
+        },
+        {
+            "v": "aws",
+            "value": 8
+        },
+        {
+            "v": "devops",
+            "value": 8
+        },
+        {
+            "v": "oracle",
+            "value": 8
+        },
+        {
+            "v": "restful",
+            "value": 8
+        },
+        {
+            "v": "spring",
+            "value": 20
+        },
+        {
+            "v": "product",
+            "value": 4
+        },
+        {
+            "v": "product-management",
+            "value": 4
+        },
+        {
+            "v": "go",
+            "value": 20
+        },
+        {
+            "v": "tensorflow",
+            "value": 4
+        },
+        {
+            "v": "google-cloud-platform",
+            "value": 12
+        },
+        {
+            "v": "chef",
+            "value": 10
+        },
+        {
+            "v": "machine-learning",
+            "value": 24
+        },
+        {
+            "v": "solr",
+            "value": 8
+        },
+        {
+            "v": "vue.js",
+            "value": 16
+        },
+        {
+            "v": "css",
+            "value": 24
+        },
+        {
+            "v": "django",
+            "value": 34
+        },
+        {
+            "v": "websocket",
+            "value": 8
+        },
+        {
+            "v": "react-redux",
+            "value": 16
+        },
+        {
+            "v": "domain-driven-design",
+            "value": 8
+        },
+        {
+            "v": "event-sourcing",
+            "value": 8
+        },
+        {
+            "v": "mobile",
+            "value": 32
+        },
+        {
+            "v": "ida",
+            "value": 8
+        },
+        {
+            "v": "arm",
+            "value": 8
+        },
+        {
+            "v": "automated-tests",
+            "value": 10
+        },
+        {
+            "v": "unit-testing",
+            "value": 18
+        },
+        {
+            "v": "stripe-payments",
+            "value": 8
+        },
+        {
+            "v": "paypal",
+            "value": 8
+        },
+        {
+            "v": "yii",
+            "value": 8
+        },
+        {
+            "v": "google-play",
+            "value": 8
+        },
+        {
+            "v": "sass",
+            "value": 14
+        },
+        {
+            "v": "webpack",
+            "value": 6
+        },
+        {
+            "v": "ecmascript-5",
+            "value": 8
+        },
+        {
+            "v": "ecmascript-6",
+            "value": 8
+        },
+        {
+            "v": "cucumber",
+            "value": 6
+        },
+        {
+            "v": "sinatra",
+            "value": 6
+        },
+        {
+            "v": "software-design",
+            "value": 6
+        },
+        {
+            "v": "algorithm",
+            "value": 14
+        },
+        {
+            "v": "gpu",
+            "value": 6
+        },
+        {
+            "v": "user-interface",
+            "value": 6
+        },
+        {
+            "v": "postgresql",
+            "value": 46
+        },
+        {
+            "v": "react-native",
+            "value": 16
+        },
+        {
+            "v": "next.js",
+            "value": 8
+        },
+        {
+            "v": "project-management",
+            "value": 14
+        },
+        {
+            "v": "erp",
+            "value": 8
+        },
+        {
+            "v": "bpm",
+            "value": 8
+        },
+        {
+            "v": "workflow",
+            "value": 8
+        },
+        {
+            "v": "push-notification",
+            "value": 8
+        },
+        {
+            "v": "redis",
+            "value": 18
+        },
+        {
+            "v": "serverless-framework",
+            "value": 8
+        },
+        {
+            "v": "jquery",
+            "value": 16
+        },
+        {
+            "v": "cloud",
+            "value": 6
+        },
+        {
+            "v": "microservices",
+            "value": 6
+        },
+        {
+            "v": "jenkins",
+            "value": 6
+        },
+        {
+            "v": "saas",
+            "value": 4
+        },
+        {
+            "v": "elastic-beanstalk",
+            "value": 8
+        },
+        {
+            "v": "amazon-emr",
+            "value": 8
+        },
+        {
+            "v": "backbone.js",
+            "value": 8
+        },
+        {
+            "v": "xhtml",
+            "value": 8
+        },
+        {
+            "v": "mongodb",
+            "value": 8
+        },
+        {
+            "v": "looker",
+            "value": 4
+        },
+        {
+            "v": "angular-fullstack",
+            "value": 6
+        },
+        {
+            "v": "rx-java2",
+            "value": 8
+        },
+        {
+            "v": "functional-programming",
+            "value": 8
+        },
+        {
+            "v": "aws-lambda",
+            "value": 8
+        },
+        {
+            "v": "amazon-ec2",
+            "value": 8
+        },
+        {
+            "v": "rspec",
+            "value": 6
+        },
+        {
+            "v": "tdd",
+            "value": 8
+        },
+        {
+            "v": "pandas",
+            "value": 8
+        },
+        {
+            "v": "spring-boot",
+            "value": 4
+        },
+        {
+            "v": "d3.js",
+            "value": 8
+        },
+        {
+            "v": "apex",
+            "value": 8
+        },
+        {
+            "v": "salesforce",
+            "value": 8
+        },
+        {
+            "v": "salesforce-lightning",
+            "value": 8
+        },
+        {
+            "v": "oop",
+            "value": 16
+        },
+        {
+            "v": "data-structures",
+            "value": 8
+        },
+        {
+            "v": "design-patterns",
+            "value": 8
+        },
+        {
+            "v": "laravel",
+            "value": 8
+        },
+        {
+            "v": "distributed-system",
+            "value": 8
+        }
+    ],
+    "edges": [
+        {
+            "v": "testing",
+            "w": "qa",
+            "value": 2
+        },
+        {
+            "v": "testing",
+            "w": "jira",
+            "value": 1
+        },
+        {
+            "v": "testing",
+            "w": "json",
+            "value": 1
+        },
+        {
+            "v": "testing",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "qa",
+            "w": "testing",
+            "value": 2
+        },
+        {
+            "v": "qa",
+            "w": "jira",
+            "value": 1
+        },
+        {
+            "v": "qa",
+            "w": "json",
+            "value": 1
+        },
+        {
+            "v": "qa",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "jira",
+            "w": "testing",
+            "value": 1
+        },
+        {
+            "v": "jira",
+            "w": "qa",
+            "value": 1
+        },
+        {
+            "v": "jira",
+            "w": "json",
+            "value": 1
+        },
+        {
+            "v": "jira",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "json",
+            "w": "testing",
+            "value": 1
+        },
+        {
+            "v": "json",
+            "w": "qa",
+            "value": 1
+        },
+        {
+            "v": "json",
+            "w": "jira",
+            "value": 1
+        },
+        {
+            "v": "json",
+            "w": "sql",
+            "value": 2
+        },
+        {
+            "v": "sql",
+            "w": "testing",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "qa",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "jira",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "json",
+            "value": 2
+        },
+        {
+            "v": "mvc",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "mvc",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "mvc",
+            "w": "asp.net-web-api",
+            "value": 1
+        },
+        {
+            "v": "mvc",
+            "w": "database",
+            "value": 1
+        },
+        {
+            "v": "angular",
+            "w": "mvc",
+            "value": 1
+        },
+        {
+            "v": "angular",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "angular",
+            "w": "asp.net-web-api",
+            "value": 1
+        },
+        {
+            "v": "angular",
+            "w": "database",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "mvc",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "asp.net-web-api",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "database",
+            "value": 2
+        },
+        {
+            "v": "asp.net-web-api",
+            "w": "mvc",
+            "value": 1
+        },
+        {
+            "v": "asp.net-web-api",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "asp.net-web-api",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "asp.net-web-api",
+            "w": "database",
+            "value": 1
+        },
+        {
+            "v": "database",
+            "w": "mvc",
+            "value": 1
+        },
+        {
+            "v": "database",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "database",
+            "w": "java",
+            "value": 2
+        },
+        {
+            "v": "database",
+            "w": "asp.net-web-api",
+            "value": 1
+        },
+        {
+            "v": "etl",
+            "w": "sql",
+            "value": 2
+        },
+        {
+            "v": "etl",
+            "w": "excel",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "etl",
+            "value": 2
+        },
+        {
+            "v": "sql",
+            "w": "excel",
+            "value": 1
+        },
+        {
+            "v": "excel",
+            "w": "etl",
+            "value": 1
+        },
+        {
+            "v": "excel",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "graphql",
+            "w": "mysql",
+            "value": 1
+        },
+        {
+            "v": "graphql",
+            "w": "php",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "graphql",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "php",
+            "value": 2
+        },
+        {
+            "v": "php",
+            "w": "graphql",
+            "value": 1
+        },
+        {
+            "v": "php",
+            "w": "mysql",
+            "value": 2
+        },
+        {
+            "v": "office-js",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "office-js",
+            "w": ".net",
+            "value": 1
+        },
+        {
+            "v": "office-js",
+            "w": "vsto",
+            "value": 1
+        },
+        {
+            "v": "office-js",
+            "w": "excel",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "office-js",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": ".net",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "vsto",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "excel",
+            "value": 1
+        },
+        {
+            "v": ".net",
+            "w": "office-js",
+            "value": 1
+        },
+        {
+            "v": ".net",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": ".net",
+            "w": "vsto",
+            "value": 1
+        },
+        {
+            "v": ".net",
+            "w": "excel",
+            "value": 1
+        },
+        {
+            "v": "vsto",
+            "w": "office-js",
+            "value": 1
+        },
+        {
+            "v": "vsto",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "vsto",
+            "w": ".net",
+            "value": 1
+        },
+        {
+            "v": "vsto",
+            "w": "excel",
+            "value": 1
+        },
+        {
+            "v": "excel",
+            "w": "office-js",
+            "value": 1
+        },
+        {
+            "v": "excel",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "excel",
+            "w": ".net",
+            "value": 1
+        },
+        {
+            "v": "excel",
+            "w": "vsto",
+            "value": 1
+        },
+        {
+            "v": "selenium",
+            "w": "qa",
+            "value": 1
+        },
+        {
+            "v": "selenium",
+            "w": "testing",
+            "value": 1
+        },
+        {
+            "v": "selenium",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "selenium",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "qa",
+            "w": "selenium",
+            "value": 1
+        },
+        {
+            "v": "qa",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "qa",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "testing",
+            "w": "selenium",
+            "value": 1
+        },
+        {
+            "v": "testing",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "testing",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "selenium",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "qa",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "testing",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "javascript",
+            "value": 3
+        },
+        {
+            "v": "javascript",
+            "w": "selenium",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "qa",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "testing",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "java",
+            "value": 3
+        },
+        {
+            "v": "reactjs",
+            "w": "react",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "javascript",
+            "value": 11
+        },
+        {
+            "v": "react",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "react",
+            "w": "javascript",
+            "value": 4
+        },
+        {
+            "v": "javascript",
+            "w": "reactjs",
+            "value": 11
+        },
+        {
+            "v": "javascript",
+            "w": "react",
+            "value": 4
+        },
+        {
+            "v": "api",
+            "w": "java",
+            "value": 3
+        },
+        {
+            "v": "api",
+            "w": "python",
+            "value": 2
+        },
+        {
+            "v": "api",
+            "w": "scala",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "api",
+            "value": 3
+        },
+        {
+            "v": "java",
+            "w": "python",
+            "value": 6
+        },
+        {
+            "v": "java",
+            "w": "scala",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "api",
+            "value": 2
+        },
+        {
+            "v": "python",
+            "w": "java",
+            "value": 6
+        },
+        {
+            "v": "python",
+            "w": "scala",
+            "value": 1
+        },
+        {
+            "v": "scala",
+            "w": "api",
+            "value": 1
+        },
+        {
+            "v": "scala",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "scala",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "bioinformatics",
+            "w": "sequence",
+            "value": 1
+        },
+        {
+            "v": "bioinformatics",
+            "w": "lis",
+            "value": 1
+        },
+        {
+            "v": "sequence",
+            "w": "bioinformatics",
+            "value": 1
+        },
+        {
+            "v": "sequence",
+            "w": "lis",
+            "value": 1
+        },
+        {
+            "v": "lis",
+            "w": "bioinformatics",
+            "value": 1
+        },
+        {
+            "v": "lis",
+            "w": "sequence",
+            "value": 1
+        },
+        {
+            "v": "r",
+            "w": "matlab",
+            "value": 2
+        },
+        {
+            "v": "r",
+            "w": "python",
+            "value": 4
+        },
+        {
+            "v": "r",
+            "w": "unix",
+            "value": 1
+        },
+        {
+            "v": "r",
+            "w": "java",
+            "value": 2
+        },
+        {
+            "v": "matlab",
+            "w": "r",
+            "value": 2
+        },
+        {
+            "v": "matlab",
+            "w": "python",
+            "value": 2
+        },
+        {
+            "v": "matlab",
+            "w": "unix",
+            "value": 1
+        },
+        {
+            "v": "matlab",
+            "w": "java",
+            "value": 2
+        },
+        {
+            "v": "python",
+            "w": "r",
+            "value": 4
+        },
+        {
+            "v": "python",
+            "w": "matlab",
+            "value": 2
+        },
+        {
+            "v": "python",
+            "w": "unix",
+            "value": 1
+        },
+        {
+            "v": "unix",
+            "w": "r",
+            "value": 1
+        },
+        {
+            "v": "unix",
+            "w": "matlab",
+            "value": 1
+        },
+        {
+            "v": "unix",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "unix",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "r",
+            "value": 2
+        },
+        {
+            "v": "java",
+            "w": "matlab",
+            "value": 2
+        },
+        {
+            "v": "java",
+            "w": "unix",
+            "value": 1
+        },
+        {
+            "v": "r",
+            "w": "bioinformatics",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "bioinformatics",
+            "value": 1
+        },
+        {
+            "v": "bioinformatics",
+            "w": "r",
+            "value": 1
+        },
+        {
+            "v": "bioinformatics",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "docker",
+            "w": "drupal",
+            "value": 1
+        },
+        {
+            "v": "docker",
+            "w": "kubernetes",
+            "value": 4
+        },
+        {
+            "v": "docker",
+            "w": "continuous-integration",
+            "value": 2
+        },
+        {
+            "v": "docker",
+            "w": "continuous-delivery",
+            "value": 1
+        },
+        {
+            "v": "docker",
+            "w": "sysadmin",
+            "value": 4
+        },
+        {
+            "v": "drupal",
+            "w": "docker",
+            "value": 1
+        },
+        {
+            "v": "drupal",
+            "w": "kubernetes",
+            "value": 1
+        },
+        {
+            "v": "drupal",
+            "w": "continuous-integration",
+            "value": 1
+        },
+        {
+            "v": "drupal",
+            "w": "continuous-delivery",
+            "value": 1
+        },
+        {
+            "v": "drupal",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "kubernetes",
+            "w": "docker",
+            "value": 4
+        },
+        {
+            "v": "kubernetes",
+            "w": "drupal",
+            "value": 1
+        },
+        {
+            "v": "kubernetes",
+            "w": "continuous-integration",
+            "value": 2
+        },
+        {
+            "v": "kubernetes",
+            "w": "continuous-delivery",
+            "value": 1
+        },
+        {
+            "v": "kubernetes",
+            "w": "sysadmin",
+            "value": 3
+        },
+        {
+            "v": "continuous-integration",
+            "w": "docker",
+            "value": 2
+        },
+        {
+            "v": "continuous-integration",
+            "w": "drupal",
+            "value": 1
+        },
+        {
+            "v": "continuous-integration",
+            "w": "kubernetes",
+            "value": 2
+        },
+        {
+            "v": "continuous-integration",
+            "w": "continuous-delivery",
+            "value": 1
+        },
+        {
+            "v": "continuous-integration",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "continuous-delivery",
+            "w": "docker",
+            "value": 1
+        },
+        {
+            "v": "continuous-delivery",
+            "w": "drupal",
+            "value": 1
+        },
+        {
+            "v": "continuous-delivery",
+            "w": "kubernetes",
+            "value": 1
+        },
+        {
+            "v": "continuous-delivery",
+            "w": "continuous-integration",
+            "value": 1
+        },
+        {
+            "v": "continuous-delivery",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "docker",
+            "value": 4
+        },
+        {
+            "v": "sysadmin",
+            "w": "drupal",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "kubernetes",
+            "value": 3
+        },
+        {
+            "v": "sysadmin",
+            "w": "continuous-integration",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "continuous-delivery",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "python",
+            "value": 2
+        },
+        {
+            "v": "node.js",
+            "w": "amazon-web-services",
+            "value": 6
+        },
+        {
+            "v": "web-services",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "web-services",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "web-services",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "node.js",
+            "value": 2
+        },
+        {
+            "v": "python",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "amazon-web-services",
+            "value": 11
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "node.js",
+            "value": 6
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "python",
+            "value": 11
+        },
+        {
+            "v": "javascript",
+            "w": "angularjs",
+            "value": 3
+        },
+        {
+            "v": "javascript",
+            "w": "typescript",
+            "value": 2
+        },
+        {
+            "v": "javascript",
+            "w": "html5",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "gwt",
+            "value": 1
+        },
+        {
+            "v": "angularjs",
+            "w": "javascript",
+            "value": 3
+        },
+        {
+            "v": "angularjs",
+            "w": "typescript",
+            "value": 1
+        },
+        {
+            "v": "angularjs",
+            "w": "html5",
+            "value": 2
+        },
+        {
+            "v": "angularjs",
+            "w": "gwt",
+            "value": 1
+        },
+        {
+            "v": "typescript",
+            "w": "javascript",
+            "value": 2
+        },
+        {
+            "v": "typescript",
+            "w": "angularjs",
+            "value": 1
+        },
+        {
+            "v": "typescript",
+            "w": "html5",
+            "value": 1
+        },
+        {
+            "v": "typescript",
+            "w": "gwt",
+            "value": 1
+        },
+        {
+            "v": "html5",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "html5",
+            "w": "angularjs",
+            "value": 2
+        },
+        {
+            "v": "html5",
+            "w": "typescript",
+            "value": 1
+        },
+        {
+            "v": "html5",
+            "w": "gwt",
+            "value": 1
+        },
+        {
+            "v": "gwt",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "gwt",
+            "w": "angularjs",
+            "value": 1
+        },
+        {
+            "v": "gwt",
+            "w": "typescript",
+            "value": 1
+        },
+        {
+            "v": "gwt",
+            "w": "html5",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "java-ee",
+            "value": 4
+        },
+        {
+            "v": "java",
+            "w": "angularjs",
+            "value": 2
+        },
+        {
+            "v": "java",
+            "w": "html5",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "css3",
+            "value": 1
+        },
+        {
+            "v": "java-ee",
+            "w": "java",
+            "value": 4
+        },
+        {
+            "v": "java-ee",
+            "w": "angularjs",
+            "value": 1
+        },
+        {
+            "v": "java-ee",
+            "w": "html5",
+            "value": 1
+        },
+        {
+            "v": "java-ee",
+            "w": "css3",
+            "value": 1
+        },
+        {
+            "v": "angularjs",
+            "w": "java",
+            "value": 2
+        },
+        {
+            "v": "angularjs",
+            "w": "java-ee",
+            "value": 1
+        },
+        {
+            "v": "angularjs",
+            "w": "css3",
+            "value": 1
+        },
+        {
+            "v": "html5",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "html5",
+            "w": "java-ee",
+            "value": 1
+        },
+        {
+            "v": "html5",
+            "w": "css3",
+            "value": 1
+        },
+        {
+            "v": "css3",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "css3",
+            "w": "java-ee",
+            "value": 1
+        },
+        {
+            "v": "css3",
+            "w": "angularjs",
+            "value": 1
+        },
+        {
+            "v": "css3",
+            "w": "html5",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "c++",
+            "value": 2
+        },
+        {
+            "v": "java",
+            "w": "sql",
+            "value": 4
+        },
+        {
+            "v": "java",
+            "w": "c#",
+            "value": 1
+        },
+        {
+            "v": "c++",
+            "w": "java",
+            "value": 2
+        },
+        {
+            "v": "c++",
+            "w": "java-ee",
+            "value": 1
+        },
+        {
+            "v": "c++",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "c++",
+            "w": "c#",
+            "value": 1
+        },
+        {
+            "v": "java-ee",
+            "w": "c++",
+            "value": 1
+        },
+        {
+            "v": "java-ee",
+            "w": "sql",
+            "value": 2
+        },
+        {
+            "v": "java-ee",
+            "w": "c#",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "java",
+            "value": 4
+        },
+        {
+            "v": "sql",
+            "w": "c++",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "java-ee",
+            "value": 2
+        },
+        {
+            "v": "sql",
+            "w": "c#",
+            "value": 1
+        },
+        {
+            "v": "c#",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "c#",
+            "w": "c++",
+            "value": 1
+        },
+        {
+            "v": "c#",
+            "w": "java-ee",
+            "value": 1
+        },
+        {
+            "v": "c#",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "sql",
+            "value": 3
+        },
+        {
+            "v": "python",
+            "w": "database",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "python",
+            "value": 3
+        },
+        {
+            "v": "sql",
+            "w": "database",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "api",
+            "value": 2
+        },
+        {
+            "v": "database",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "database",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "database",
+            "w": "api",
+            "value": 1
+        },
+        {
+            "v": "api",
+            "w": "sql",
+            "value": 2
+        },
+        {
+            "v": "api",
+            "w": "database",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "active-directory",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "sql-server",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "automation",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "mysql",
+            "value": 3
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "sysadmin",
+            "value": 7
+        },
+        {
+            "v": "active-directory",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "active-directory",
+            "w": "sql-server",
+            "value": 1
+        },
+        {
+            "v": "active-directory",
+            "w": "automation",
+            "value": 1
+        },
+        {
+            "v": "active-directory",
+            "w": "mysql",
+            "value": 1
+        },
+        {
+            "v": "active-directory",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "sql-server",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "sql-server",
+            "w": "active-directory",
+            "value": 1
+        },
+        {
+            "v": "sql-server",
+            "w": "automation",
+            "value": 1
+        },
+        {
+            "v": "sql-server",
+            "w": "mysql",
+            "value": 1
+        },
+        {
+            "v": "sql-server",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "automation",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "automation",
+            "w": "active-directory",
+            "value": 1
+        },
+        {
+            "v": "automation",
+            "w": "sql-server",
+            "value": 1
+        },
+        {
+            "v": "automation",
+            "w": "mysql",
+            "value": 1
+        },
+        {
+            "v": "automation",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "amazon-web-services",
+            "value": 3
+        },
+        {
+            "v": "mysql",
+            "w": "active-directory",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "sql-server",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "automation",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "sysadmin",
+            "value": 2
+        },
+        {
+            "v": "sysadmin",
+            "w": "amazon-web-services",
+            "value": 7
+        },
+        {
+            "v": "sysadmin",
+            "w": "active-directory",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "sql-server",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "automation",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "mysql",
+            "value": 2
+        },
+        {
+            "v": "r",
+            "w": "hadoop",
+            "value": 1
+        },
+        {
+            "v": "r",
+            "w": "knime",
+            "value": 1
+        },
+        {
+            "v": "r",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "hadoop",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "knime",
+            "value": 1
+        },
+        {
+            "v": "hadoop",
+            "w": "r",
+            "value": 1
+        },
+        {
+            "v": "hadoop",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "hadoop",
+            "w": "knime",
+            "value": 1
+        },
+        {
+            "v": "hadoop",
+            "w": "sql",
+            "value": 2
+        },
+        {
+            "v": "knime",
+            "w": "r",
+            "value": 1
+        },
+        {
+            "v": "knime",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "knime",
+            "w": "hadoop",
+            "value": 1
+        },
+        {
+            "v": "knime",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "r",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "hadoop",
+            "value": 2
+        },
+        {
+            "v": "sql",
+            "w": "knime",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "web-services",
+            "value": 2
+        },
+        {
+            "v": "java",
+            "w": "multithreading",
+            "value": 1
+        },
+        {
+            "v": "java-ee",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "java-ee",
+            "w": "multithreading",
+            "value": 1
+        },
+        {
+            "v": "web-services",
+            "w": "java",
+            "value": 2
+        },
+        {
+            "v": "web-services",
+            "w": "java-ee",
+            "value": 1
+        },
+        {
+            "v": "web-services",
+            "w": "multithreading",
+            "value": 1
+        },
+        {
+            "v": "multithreading",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "multithreading",
+            "w": "java-ee",
+            "value": 1
+        },
+        {
+            "v": "multithreading",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "python-3.x",
+            "w": "flask",
+            "value": 1
+        },
+        {
+            "v": "python-3.x",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "python-3.x",
+            "w": "angularjs",
+            "value": 1
+        },
+        {
+            "v": "python-3.x",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "flask",
+            "w": "python-3.x",
+            "value": 1
+        },
+        {
+            "v": "flask",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "flask",
+            "w": "angularjs",
+            "value": 1
+        },
+        {
+            "v": "flask",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "python-3.x",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "flask",
+            "value": 1
+        },
+        {
+            "v": "angularjs",
+            "w": "python-3.x",
+            "value": 1
+        },
+        {
+            "v": "angularjs",
+            "w": "flask",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "python-3.x",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "flask",
+            "value": 1
+        },
+        {
+            "v": "ios",
+            "w": "android",
+            "value": 3
+        },
+        {
+            "v": "ios",
+            "w": "objective-c",
+            "value": 4
+        },
+        {
+            "v": "ios",
+            "w": "swift",
+            "value": 4
+        },
+        {
+            "v": "ios",
+            "w": "kotlin",
+            "value": 1
+        },
+        {
+            "v": "android",
+            "w": "ios",
+            "value": 3
+        },
+        {
+            "v": "android",
+            "w": "objective-c",
+            "value": 1
+        },
+        {
+            "v": "android",
+            "w": "swift",
+            "value": 1
+        },
+        {
+            "v": "android",
+            "w": "kotlin",
+            "value": 2
+        },
+        {
+            "v": "objective-c",
+            "w": "ios",
+            "value": 4
+        },
+        {
+            "v": "objective-c",
+            "w": "android",
+            "value": 1
+        },
+        {
+            "v": "objective-c",
+            "w": "swift",
+            "value": 4
+        },
+        {
+            "v": "objective-c",
+            "w": "kotlin",
+            "value": 1
+        },
+        {
+            "v": "swift",
+            "w": "ios",
+            "value": 4
+        },
+        {
+            "v": "swift",
+            "w": "android",
+            "value": 1
+        },
+        {
+            "v": "swift",
+            "w": "objective-c",
+            "value": 4
+        },
+        {
+            "v": "swift",
+            "w": "kotlin",
+            "value": 1
+        },
+        {
+            "v": "kotlin",
+            "w": "ios",
+            "value": 1
+        },
+        {
+            "v": "kotlin",
+            "w": "android",
+            "value": 2
+        },
+        {
+            "v": "kotlin",
+            "w": "objective-c",
+            "value": 1
+        },
+        {
+            "v": "kotlin",
+            "w": "swift",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "docker",
+            "value": 2
+        },
+        {
+            "v": "node.js",
+            "w": "reactjs",
+            "value": 10
+        },
+        {
+            "v": "node.js",
+            "w": "redux",
+            "value": 1
+        },
+        {
+            "v": "docker",
+            "w": "node.js",
+            "value": 2
+        },
+        {
+            "v": "docker",
+            "w": "amazon-web-services",
+            "value": 4
+        },
+        {
+            "v": "docker",
+            "w": "reactjs",
+            "value": 2
+        },
+        {
+            "v": "docker",
+            "w": "redux",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "docker",
+            "value": 4
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "reactjs",
+            "value": 5
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "redux",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "node.js",
+            "value": 10
+        },
+        {
+            "v": "reactjs",
+            "w": "docker",
+            "value": 2
+        },
+        {
+            "v": "reactjs",
+            "w": "amazon-web-services",
+            "value": 5
+        },
+        {
+            "v": "reactjs",
+            "w": "redux",
+            "value": 3
+        },
+        {
+            "v": "redux",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "redux",
+            "w": "docker",
+            "value": 1
+        },
+        {
+            "v": "redux",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "redux",
+            "w": "reactjs",
+            "value": 3
+        },
+        {
+            "v": "c#",
+            "w": "azure",
+            "value": 2
+        },
+        {
+            "v": "c#",
+            "w": ".net",
+            "value": 1
+        },
+        {
+            "v": "azure",
+            "w": "c#",
+            "value": 2
+        },
+        {
+            "v": "azure",
+            "w": ".net",
+            "value": 2
+        },
+        {
+            "v": ".net",
+            "w": "c#",
+            "value": 1
+        },
+        {
+            "v": ".net",
+            "w": "azure",
+            "value": 2
+        },
+        {
+            "v": "javascript",
+            "w": "node.js",
+            "value": 7
+        },
+        {
+            "v": "node.js",
+            "w": "javascript",
+            "value": 7
+        },
+        {
+            "v": "angular",
+            "w": "command-line-interface",
+            "value": 1
+        },
+        {
+            "v": "angular",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "angular",
+            "w": "rxjs",
+            "value": 1
+        },
+        {
+            "v": "angular",
+            "w": "html",
+            "value": 1
+        },
+        {
+            "v": "command-line-interface",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "command-line-interface",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "command-line-interface",
+            "w": "rxjs",
+            "value": 1
+        },
+        {
+            "v": "command-line-interface",
+            "w": "html",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "command-line-interface",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "rxjs",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "html",
+            "value": 1
+        },
+        {
+            "v": "rxjs",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "rxjs",
+            "w": "command-line-interface",
+            "value": 1
+        },
+        {
+            "v": "rxjs",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "rxjs",
+            "w": "html",
+            "value": 1
+        },
+        {
+            "v": "html",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "html",
+            "w": "command-line-interface",
+            "value": 1
+        },
+        {
+            "v": "html",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "html",
+            "w": "rxjs",
+            "value": 1
+        },
+        {
+            "v": "scala",
+            "w": "apache-spark",
+            "value": 2
+        },
+        {
+            "v": "scala",
+            "w": "sql",
+            "value": 2
+        },
+        {
+            "v": "scala",
+            "w": "etl",
+            "value": 1
+        },
+        {
+            "v": "scala",
+            "w": "amazon-web-services",
+            "value": 2
+        },
+        {
+            "v": "apache-spark",
+            "w": "scala",
+            "value": 2
+        },
+        {
+            "v": "apache-spark",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "apache-spark",
+            "w": "etl",
+            "value": 1
+        },
+        {
+            "v": "apache-spark",
+            "w": "amazon-web-services",
+            "value": 2
+        },
+        {
+            "v": "sql",
+            "w": "scala",
+            "value": 2
+        },
+        {
+            "v": "sql",
+            "w": "apache-spark",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "amazon-web-services",
+            "value": 3
+        },
+        {
+            "v": "etl",
+            "w": "scala",
+            "value": 1
+        },
+        {
+            "v": "etl",
+            "w": "apache-spark",
+            "value": 1
+        },
+        {
+            "v": "etl",
+            "w": "amazon-web-services",
+            "value": 2
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "scala",
+            "value": 2
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "apache-spark",
+            "value": 2
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "sql",
+            "value": 3
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "etl",
+            "value": 2
+        },
+        {
+            "v": "python",
+            "w": "security",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "kubernetes",
+            "value": 3
+        },
+        {
+            "v": "python",
+            "w": "penetration-testing",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "sysadmin",
+            "value": 5
+        },
+        {
+            "v": "security",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "security",
+            "w": "amazon-web-services",
+            "value": 2
+        },
+        {
+            "v": "security",
+            "w": "kubernetes",
+            "value": 2
+        },
+        {
+            "v": "security",
+            "w": "penetration-testing",
+            "value": 1
+        },
+        {
+            "v": "security",
+            "w": "sysadmin",
+            "value": 2
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "security",
+            "value": 2
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "kubernetes",
+            "value": 3
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "penetration-testing",
+            "value": 1
+        },
+        {
+            "v": "kubernetes",
+            "w": "python",
+            "value": 3
+        },
+        {
+            "v": "kubernetes",
+            "w": "security",
+            "value": 2
+        },
+        {
+            "v": "kubernetes",
+            "w": "amazon-web-services",
+            "value": 3
+        },
+        {
+            "v": "kubernetes",
+            "w": "penetration-testing",
+            "value": 1
+        },
+        {
+            "v": "penetration-testing",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "penetration-testing",
+            "w": "security",
+            "value": 1
+        },
+        {
+            "v": "penetration-testing",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "penetration-testing",
+            "w": "kubernetes",
+            "value": 1
+        },
+        {
+            "v": "penetration-testing",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "python",
+            "value": 5
+        },
+        {
+            "v": "sysadmin",
+            "w": "security",
+            "value": 2
+        },
+        {
+            "v": "sysadmin",
+            "w": "penetration-testing",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "bash",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "bash",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "docker",
+            "value": 2
+        },
+        {
+            "v": "bash",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "bash",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "bash",
+            "w": "kubernetes",
+            "value": 1
+        },
+        {
+            "v": "bash",
+            "w": "docker",
+            "value": 1
+        },
+        {
+            "v": "bash",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "kubernetes",
+            "w": "bash",
+            "value": 1
+        },
+        {
+            "v": "docker",
+            "w": "python",
+            "value": 2
+        },
+        {
+            "v": "docker",
+            "w": "bash",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "bash",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "ansible",
+            "value": 2
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "terraform",
+            "value": 2
+        },
+        {
+            "v": "ansible",
+            "w": "amazon-web-services",
+            "value": 2
+        },
+        {
+            "v": "ansible",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "ansible",
+            "w": "terraform",
+            "value": 1
+        },
+        {
+            "v": "ansible",
+            "w": "docker",
+            "value": 1
+        },
+        {
+            "v": "ansible",
+            "w": "sysadmin",
+            "value": 2
+        },
+        {
+            "v": "python",
+            "w": "ansible",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "terraform",
+            "value": 2
+        },
+        {
+            "v": "terraform",
+            "w": "amazon-web-services",
+            "value": 2
+        },
+        {
+            "v": "terraform",
+            "w": "ansible",
+            "value": 1
+        },
+        {
+            "v": "terraform",
+            "w": "python",
+            "value": 2
+        },
+        {
+            "v": "terraform",
+            "w": "docker",
+            "value": 1
+        },
+        {
+            "v": "terraform",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "docker",
+            "w": "ansible",
+            "value": 1
+        },
+        {
+            "v": "docker",
+            "w": "terraform",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "ansible",
+            "value": 2
+        },
+        {
+            "v": "sysadmin",
+            "w": "terraform",
+            "value": 1
+        },
+        {
+            "v": "azure",
+            "w": "amazon-web-services",
+            "value": 2
+        },
+        {
+            "v": "azure",
+            "w": "asp.net-mvc",
+            "value": 1
+        },
+        {
+            "v": "azure",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "azure",
+            "value": 2
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "asp.net-mvc",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": ".net",
+            "value": 1
+        },
+        {
+            "v": "asp.net-mvc",
+            "w": "azure",
+            "value": 1
+        },
+        {
+            "v": "asp.net-mvc",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "asp.net-mvc",
+            "w": ".net",
+            "value": 1
+        },
+        {
+            "v": "asp.net-mvc",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": ".net",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": ".net",
+            "w": "asp.net-mvc",
+            "value": 1
+        },
+        {
+            "v": ".net",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "azure",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "asp.net-mvc",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": ".net",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "ruby",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "agile",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "ruby",
+            "value": 2
+        },
+        {
+            "v": "python",
+            "w": "agile",
+            "value": 1
+        },
+        {
+            "v": "ruby",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "ruby",
+            "w": "python",
+            "value": 2
+        },
+        {
+            "v": "ruby",
+            "w": "agile",
+            "value": 1
+        },
+        {
+            "v": "agile",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "agile",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "agile",
+            "w": "ruby",
+            "value": 1
+        },
+        {
+            "v": "c#",
+            "w": "javascript",
+            "value": 2
+        },
+        {
+            "v": "c#",
+            "w": "react",
+            "value": 2
+        },
+        {
+            "v": "c#",
+            "w": "typescript",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "c#",
+            "value": 2
+        },
+        {
+            "v": "javascript",
+            "w": "azure",
+            "value": 1
+        },
+        {
+            "v": "azure",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "azure",
+            "w": "react",
+            "value": 1
+        },
+        {
+            "v": "azure",
+            "w": "typescript",
+            "value": 1
+        },
+        {
+            "v": "react",
+            "w": "c#",
+            "value": 2
+        },
+        {
+            "v": "react",
+            "w": "azure",
+            "value": 1
+        },
+        {
+            "v": "react",
+            "w": "typescript",
+            "value": 1
+        },
+        {
+            "v": "typescript",
+            "w": "c#",
+            "value": 1
+        },
+        {
+            "v": "typescript",
+            "w": "azure",
+            "value": 1
+        },
+        {
+            "v": "typescript",
+            "w": "react",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "design",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "jira",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "middleware",
+            "value": 1
+        },
+        {
+            "v": "web-services",
+            "w": "design",
+            "value": 1
+        },
+        {
+            "v": "web-services",
+            "w": "jira",
+            "value": 1
+        },
+        {
+            "v": "web-services",
+            "w": "middleware",
+            "value": 1
+        },
+        {
+            "v": "design",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "design",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "design",
+            "w": "jira",
+            "value": 1
+        },
+        {
+            "v": "design",
+            "w": "middleware",
+            "value": 1
+        },
+        {
+            "v": "jira",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "jira",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "jira",
+            "w": "design",
+            "value": 1
+        },
+        {
+            "v": "jira",
+            "w": "middleware",
+            "value": 1
+        },
+        {
+            "v": "middleware",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "middleware",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "middleware",
+            "w": "design",
+            "value": 1
+        },
+        {
+            "v": "middleware",
+            "w": "jira",
+            "value": 1
+        },
+        {
+            "v": "php",
+            "w": "javascript",
+            "value": 2
+        },
+        {
+            "v": "php",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "php",
+            "value": 2
+        },
+        {
+            "v": "javascript",
+            "w": "amazon-web-services",
+            "value": 3
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "php",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "javascript",
+            "value": 3
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "linux",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "git",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "amazon-s3",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "linux",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "git",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "amazon-s3",
+            "value": 1
+        },
+        {
+            "v": "linux",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "linux",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "linux",
+            "w": "git",
+            "value": 1
+        },
+        {
+            "v": "linux",
+            "w": "amazon-s3",
+            "value": 1
+        },
+        {
+            "v": "linux",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "git",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "git",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "git",
+            "w": "linux",
+            "value": 1
+        },
+        {
+            "v": "git",
+            "w": "amazon-s3",
+            "value": 1
+        },
+        {
+            "v": "git",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "amazon-s3",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "amazon-s3",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "amazon-s3",
+            "w": "linux",
+            "value": 1
+        },
+        {
+            "v": "amazon-s3",
+            "w": "git",
+            "value": 1
+        },
+        {
+            "v": "amazon-s3",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "linux",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "git",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "amazon-s3",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "express",
+            "value": 1
+        },
+        {
+            "v": "express",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "express",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "express",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "php",
+            "value": 4
+        },
+        {
+            "v": "reactjs",
+            "w": "mysql",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "elasticsearch",
+            "value": 2
+        },
+        {
+            "v": "php",
+            "w": "reactjs",
+            "value": 4
+        },
+        {
+            "v": "php",
+            "w": "node.js",
+            "value": 2
+        },
+        {
+            "v": "php",
+            "w": "elasticsearch",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "php",
+            "value": 2
+        },
+        {
+            "v": "node.js",
+            "w": "mysql",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "elasticsearch",
+            "value": 2
+        },
+        {
+            "v": "mysql",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "elasticsearch",
+            "value": 1
+        },
+        {
+            "v": "elasticsearch",
+            "w": "reactjs",
+            "value": 2
+        },
+        {
+            "v": "elasticsearch",
+            "w": "php",
+            "value": 1
+        },
+        {
+            "v": "elasticsearch",
+            "w": "node.js",
+            "value": 2
+        },
+        {
+            "v": "elasticsearch",
+            "w": "mysql",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "ruby",
+            "value": 5
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "reactjs",
+            "value": 6
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "redux",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "ruby",
+            "w": "ruby-on-rails",
+            "value": 5
+        },
+        {
+            "v": "ruby",
+            "w": "reactjs",
+            "value": 3
+        },
+        {
+            "v": "ruby",
+            "w": "redux",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "ruby-on-rails",
+            "value": 6
+        },
+        {
+            "v": "reactjs",
+            "w": "ruby",
+            "value": 3
+        },
+        {
+            "v": "reactjs",
+            "w": "python",
+            "value": 5
+        },
+        {
+            "v": "redux",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "redux",
+            "w": "ruby",
+            "value": 1
+        },
+        {
+            "v": "redux",
+            "w": "python",
+            "value": 2
+        },
+        {
+            "v": "python",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "reactjs",
+            "value": 5
+        },
+        {
+            "v": "python",
+            "w": "redux",
+            "value": 2
+        },
+        {
+            "v": "scala",
+            "w": "hadoop",
+            "value": 1
+        },
+        {
+            "v": "scala",
+            "w": "aws",
+            "value": 1
+        },
+        {
+            "v": "scala",
+            "w": "devops",
+            "value": 1
+        },
+        {
+            "v": "hadoop",
+            "w": "scala",
+            "value": 1
+        },
+        {
+            "v": "hadoop",
+            "w": "aws",
+            "value": 1
+        },
+        {
+            "v": "hadoop",
+            "w": "devops",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "aws",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "devops",
+            "value": 1
+        },
+        {
+            "v": "aws",
+            "w": "scala",
+            "value": 1
+        },
+        {
+            "v": "aws",
+            "w": "hadoop",
+            "value": 1
+        },
+        {
+            "v": "aws",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "aws",
+            "w": "devops",
+            "value": 1
+        },
+        {
+            "v": "devops",
+            "w": "scala",
+            "value": 1
+        },
+        {
+            "v": "devops",
+            "w": "hadoop",
+            "value": 1
+        },
+        {
+            "v": "devops",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "devops",
+            "w": "aws",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "oracle",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "restful",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "spring",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "oracle",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "restful",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "spring",
+            "value": 3
+        },
+        {
+            "v": "oracle",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "oracle",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "oracle",
+            "w": "restful",
+            "value": 1
+        },
+        {
+            "v": "oracle",
+            "w": "spring",
+            "value": 1
+        },
+        {
+            "v": "restful",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "restful",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "restful",
+            "w": "oracle",
+            "value": 1
+        },
+        {
+            "v": "restful",
+            "w": "spring",
+            "value": 1
+        },
+        {
+            "v": "spring",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "spring",
+            "w": "java",
+            "value": 3
+        },
+        {
+            "v": "spring",
+            "w": "oracle",
+            "value": 1
+        },
+        {
+            "v": "spring",
+            "w": "restful",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "reactjs",
+            "value": 3
+        },
+        {
+            "v": "spring",
+            "w": "reactjs",
+            "value": 2
+        },
+        {
+            "v": "reactjs",
+            "w": "java",
+            "value": 3
+        },
+        {
+            "v": "reactjs",
+            "w": "spring",
+            "value": 2
+        },
+        {
+            "v": "web-services",
+            "w": "product",
+            "value": 1
+        },
+        {
+            "v": "web-services",
+            "w": "product-management",
+            "value": 1
+        },
+        {
+            "v": "product",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "product",
+            "w": "product-management",
+            "value": 1
+        },
+        {
+            "v": "product-management",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "product-management",
+            "w": "product",
+            "value": 1
+        },
+        {
+            "v": "go",
+            "w": "tensorflow",
+            "value": 1
+        },
+        {
+            "v": "go",
+            "w": "google-cloud-platform",
+            "value": 1
+        },
+        {
+            "v": "tensorflow",
+            "w": "go",
+            "value": 1
+        },
+        {
+            "v": "tensorflow",
+            "w": "google-cloud-platform",
+            "value": 1
+        },
+        {
+            "v": "google-cloud-platform",
+            "w": "go",
+            "value": 1
+        },
+        {
+            "v": "google-cloud-platform",
+            "w": "tensorflow",
+            "value": 1
+        },
+        {
+            "v": "chef",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "chef",
+            "w": "mysql",
+            "value": 1
+        },
+        {
+            "v": "chef",
+            "w": "ansible",
+            "value": 1
+        },
+        {
+            "v": "chef",
+            "w": "azure",
+            "value": 1
+        },
+        {
+            "v": "chef",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "chef",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "chef",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "ansible",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "azure",
+            "value": 1
+        },
+        {
+            "v": "ansible",
+            "w": "chef",
+            "value": 1
+        },
+        {
+            "v": "ansible",
+            "w": "mysql",
+            "value": 1
+        },
+        {
+            "v": "ansible",
+            "w": "azure",
+            "value": 1
+        },
+        {
+            "v": "azure",
+            "w": "chef",
+            "value": 1
+        },
+        {
+            "v": "azure",
+            "w": "mysql",
+            "value": 1
+        },
+        {
+            "v": "azure",
+            "w": "ansible",
+            "value": 1
+        },
+        {
+            "v": "azure",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "chef",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "azure",
+            "value": 1
+        },
+        {
+            "v": "machine-learning",
+            "w": "r",
+            "value": 1
+        },
+        {
+            "v": "machine-learning",
+            "w": "python",
+            "value": 3
+        },
+        {
+            "v": "machine-learning",
+            "w": "matlab",
+            "value": 1
+        },
+        {
+            "v": "machine-learning",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "r",
+            "w": "machine-learning",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "machine-learning",
+            "value": 3
+        },
+        {
+            "v": "matlab",
+            "w": "machine-learning",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "machine-learning",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "etl",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "solr",
+            "value": 1
+        },
+        {
+            "v": "etl",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "etl",
+            "w": "solr",
+            "value": 1
+        },
+        {
+            "v": "etl",
+            "w": "machine-learning",
+            "value": 1
+        },
+        {
+            "v": "solr",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "solr",
+            "w": "etl",
+            "value": 1
+        },
+        {
+            "v": "solr",
+            "w": "machine-learning",
+            "value": 1
+        },
+        {
+            "v": "solr",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "machine-learning",
+            "w": "etl",
+            "value": 1
+        },
+        {
+            "v": "machine-learning",
+            "w": "solr",
+            "value": 1
+        },
+        {
+            "v": "machine-learning",
+            "w": "amazon-web-services",
+            "value": 2
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "solr",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "machine-learning",
+            "value": 2
+        },
+        {
+            "v": "javascript",
+            "w": "vue.js",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "css",
+            "value": 3
+        },
+        {
+            "v": "javascript",
+            "w": "etl",
+            "value": 1
+        },
+        {
+            "v": "vue.js",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "vue.js",
+            "w": "node.js",
+            "value": 2
+        },
+        {
+            "v": "vue.js",
+            "w": "css",
+            "value": 1
+        },
+        {
+            "v": "vue.js",
+            "w": "etl",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "vue.js",
+            "value": 2
+        },
+        {
+            "v": "node.js",
+            "w": "css",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "etl",
+            "value": 1
+        },
+        {
+            "v": "css",
+            "w": "javascript",
+            "value": 3
+        },
+        {
+            "v": "css",
+            "w": "vue.js",
+            "value": 1
+        },
+        {
+            "v": "css",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "css",
+            "w": "etl",
+            "value": 1
+        },
+        {
+            "v": "etl",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "etl",
+            "w": "vue.js",
+            "value": 1
+        },
+        {
+            "v": "etl",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "etl",
+            "w": "css",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "django",
+            "value": 4
+        },
+        {
+            "v": "python",
+            "w": "graphql",
+            "value": 2
+        },
+        {
+            "v": "python",
+            "w": "websocket",
+            "value": 1
+        },
+        {
+            "v": "django",
+            "w": "python",
+            "value": 4
+        },
+        {
+            "v": "django",
+            "w": "reactjs",
+            "value": 2
+        },
+        {
+            "v": "django",
+            "w": "graphql",
+            "value": 1
+        },
+        {
+            "v": "django",
+            "w": "websocket",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "django",
+            "value": 2
+        },
+        {
+            "v": "reactjs",
+            "w": "graphql",
+            "value": 3
+        },
+        {
+            "v": "reactjs",
+            "w": "websocket",
+            "value": 1
+        },
+        {
+            "v": "graphql",
+            "w": "python",
+            "value": 2
+        },
+        {
+            "v": "graphql",
+            "w": "django",
+            "value": 1
+        },
+        {
+            "v": "graphql",
+            "w": "reactjs",
+            "value": 3
+        },
+        {
+            "v": "graphql",
+            "w": "websocket",
+            "value": 1
+        },
+        {
+            "v": "websocket",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "websocket",
+            "w": "django",
+            "value": 1
+        },
+        {
+            "v": "websocket",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "websocket",
+            "w": "graphql",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "react-redux",
+            "value": 2
+        },
+        {
+            "v": "python",
+            "w": "react-redux",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "react-redux",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "react-redux",
+            "value": 1
+        },
+        {
+            "v": "react-redux",
+            "w": "reactjs",
+            "value": 2
+        },
+        {
+            "v": "react-redux",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "react-redux",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "react-redux",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "domain-driven-design",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "event-sourcing",
+            "value": 1
+        },
+        {
+            "v": "graphql",
+            "w": "domain-driven-design",
+            "value": 1
+        },
+        {
+            "v": "graphql",
+            "w": "event-sourcing",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "domain-driven-design",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "event-sourcing",
+            "value": 1
+        },
+        {
+            "v": "domain-driven-design",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "domain-driven-design",
+            "w": "graphql",
+            "value": 1
+        },
+        {
+            "v": "domain-driven-design",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "domain-driven-design",
+            "w": "event-sourcing",
+            "value": 1
+        },
+        {
+            "v": "event-sourcing",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "event-sourcing",
+            "w": "graphql",
+            "value": 1
+        },
+        {
+            "v": "event-sourcing",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "event-sourcing",
+            "w": "domain-driven-design",
+            "value": 1
+        },
+        {
+            "v": "android",
+            "w": "mobile",
+            "value": 3
+        },
+        {
+            "v": "android",
+            "w": "ida",
+            "value": 1
+        },
+        {
+            "v": "android",
+            "w": "arm",
+            "value": 1
+        },
+        {
+            "v": "ios",
+            "w": "mobile",
+            "value": 3
+        },
+        {
+            "v": "ios",
+            "w": "ida",
+            "value": 1
+        },
+        {
+            "v": "ios",
+            "w": "arm",
+            "value": 1
+        },
+        {
+            "v": "mobile",
+            "w": "android",
+            "value": 3
+        },
+        {
+            "v": "mobile",
+            "w": "ios",
+            "value": 3
+        },
+        {
+            "v": "mobile",
+            "w": "ida",
+            "value": 1
+        },
+        {
+            "v": "mobile",
+            "w": "arm",
+            "value": 1
+        },
+        {
+            "v": "ida",
+            "w": "android",
+            "value": 1
+        },
+        {
+            "v": "ida",
+            "w": "ios",
+            "value": 1
+        },
+        {
+            "v": "ida",
+            "w": "mobile",
+            "value": 1
+        },
+        {
+            "v": "ida",
+            "w": "arm",
+            "value": 1
+        },
+        {
+            "v": "arm",
+            "w": "android",
+            "value": 1
+        },
+        {
+            "v": "arm",
+            "w": "ios",
+            "value": 1
+        },
+        {
+            "v": "arm",
+            "w": "mobile",
+            "value": 1
+        },
+        {
+            "v": "arm",
+            "w": "ida",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "selenium",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "automated-tests",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "unit-testing",
+            "value": 1
+        },
+        {
+            "v": "django",
+            "w": "selenium",
+            "value": 1
+        },
+        {
+            "v": "django",
+            "w": "automated-tests",
+            "value": 1
+        },
+        {
+            "v": "django",
+            "w": "unit-testing",
+            "value": 1
+        },
+        {
+            "v": "django",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "selenium",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "selenium",
+            "w": "django",
+            "value": 1
+        },
+        {
+            "v": "selenium",
+            "w": "automated-tests",
+            "value": 1
+        },
+        {
+            "v": "selenium",
+            "w": "unit-testing",
+            "value": 1
+        },
+        {
+            "v": "selenium",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "automated-tests",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "automated-tests",
+            "w": "django",
+            "value": 1
+        },
+        {
+            "v": "automated-tests",
+            "w": "selenium",
+            "value": 1
+        },
+        {
+            "v": "automated-tests",
+            "w": "unit-testing",
+            "value": 1
+        },
+        {
+            "v": "automated-tests",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "unit-testing",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "unit-testing",
+            "w": "django",
+            "value": 1
+        },
+        {
+            "v": "unit-testing",
+            "w": "selenium",
+            "value": 1
+        },
+        {
+            "v": "unit-testing",
+            "w": "automated-tests",
+            "value": 1
+        },
+        {
+            "v": "unit-testing",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "django",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "selenium",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "automated-tests",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "unit-testing",
+            "value": 1
+        },
+        {
+            "v": "stripe-payments",
+            "w": "paypal",
+            "value": 1
+        },
+        {
+            "v": "stripe-payments",
+            "w": "yii",
+            "value": 1
+        },
+        {
+            "v": "stripe-payments",
+            "w": "google-play",
+            "value": 1
+        },
+        {
+            "v": "stripe-payments",
+            "w": "php",
+            "value": 1
+        },
+        {
+            "v": "paypal",
+            "w": "stripe-payments",
+            "value": 1
+        },
+        {
+            "v": "paypal",
+            "w": "yii",
+            "value": 1
+        },
+        {
+            "v": "paypal",
+            "w": "google-play",
+            "value": 1
+        },
+        {
+            "v": "paypal",
+            "w": "php",
+            "value": 1
+        },
+        {
+            "v": "yii",
+            "w": "stripe-payments",
+            "value": 1
+        },
+        {
+            "v": "yii",
+            "w": "paypal",
+            "value": 1
+        },
+        {
+            "v": "yii",
+            "w": "google-play",
+            "value": 1
+        },
+        {
+            "v": "yii",
+            "w": "php",
+            "value": 1
+        },
+        {
+            "v": "google-play",
+            "w": "stripe-payments",
+            "value": 1
+        },
+        {
+            "v": "google-play",
+            "w": "paypal",
+            "value": 1
+        },
+        {
+            "v": "google-play",
+            "w": "yii",
+            "value": 1
+        },
+        {
+            "v": "google-play",
+            "w": "php",
+            "value": 1
+        },
+        {
+            "v": "php",
+            "w": "stripe-payments",
+            "value": 1
+        },
+        {
+            "v": "php",
+            "w": "paypal",
+            "value": 1
+        },
+        {
+            "v": "php",
+            "w": "yii",
+            "value": 1
+        },
+        {
+            "v": "php",
+            "w": "google-play",
+            "value": 1
+        },
+        {
+            "v": "php",
+            "w": "sass",
+            "value": 1
+        },
+        {
+            "v": "php",
+            "w": "webpack",
+            "value": 1
+        },
+        {
+            "v": "sass",
+            "w": "php",
+            "value": 1
+        },
+        {
+            "v": "sass",
+            "w": "reactjs",
+            "value": 2
+        },
+        {
+            "v": "sass",
+            "w": "webpack",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "sass",
+            "value": 2
+        },
+        {
+            "v": "reactjs",
+            "w": "webpack",
+            "value": 1
+        },
+        {
+            "v": "webpack",
+            "w": "php",
+            "value": 1
+        },
+        {
+            "v": "webpack",
+            "w": "sass",
+            "value": 1
+        },
+        {
+            "v": "webpack",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "ecmascript-5",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "ecmascript-6",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "ecmascript-5",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "ecmascript-6",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "sql",
+            "value": 2
+        },
+        {
+            "v": "ecmascript-5",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "ecmascript-5",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "ecmascript-5",
+            "w": "ecmascript-6",
+            "value": 1
+        },
+        {
+            "v": "ecmascript-5",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "ecmascript-6",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "ecmascript-6",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "ecmascript-6",
+            "w": "ecmascript-5",
+            "value": 1
+        },
+        {
+            "v": "ecmascript-6",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "node.js",
+            "value": 2
+        },
+        {
+            "v": "sql",
+            "w": "ecmascript-5",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "ecmascript-6",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "cucumber",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "sinatra",
+            "value": 1
+        },
+        {
+            "v": "ruby",
+            "w": "cucumber",
+            "value": 1
+        },
+        {
+            "v": "ruby",
+            "w": "sinatra",
+            "value": 1
+        },
+        {
+            "v": "cucumber",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "cucumber",
+            "w": "ruby",
+            "value": 1
+        },
+        {
+            "v": "cucumber",
+            "w": "sinatra",
+            "value": 1
+        },
+        {
+            "v": "sinatra",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "sinatra",
+            "w": "ruby",
+            "value": 1
+        },
+        {
+            "v": "sinatra",
+            "w": "cucumber",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "ruby-on-rails",
+            "value": 3
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "javascript",
+            "value": 3
+        },
+        {
+            "v": "software-design",
+            "w": "algorithm",
+            "value": 1
+        },
+        {
+            "v": "software-design",
+            "w": "gpu",
+            "value": 1
+        },
+        {
+            "v": "software-design",
+            "w": "user-interface",
+            "value": 1
+        },
+        {
+            "v": "algorithm",
+            "w": "software-design",
+            "value": 1
+        },
+        {
+            "v": "algorithm",
+            "w": "gpu",
+            "value": 1
+        },
+        {
+            "v": "algorithm",
+            "w": "user-interface",
+            "value": 1
+        },
+        {
+            "v": "gpu",
+            "w": "software-design",
+            "value": 1
+        },
+        {
+            "v": "gpu",
+            "w": "algorithm",
+            "value": 1
+        },
+        {
+            "v": "gpu",
+            "w": "user-interface",
+            "value": 1
+        },
+        {
+            "v": "user-interface",
+            "w": "software-design",
+            "value": 1
+        },
+        {
+            "v": "user-interface",
+            "w": "algorithm",
+            "value": 1
+        },
+        {
+            "v": "user-interface",
+            "w": "gpu",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "docker",
+            "value": 2
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "kubernetes",
+            "value": 2
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "security",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "continuous-integration",
+            "value": 1
+        },
+        {
+            "v": "docker",
+            "w": "ruby-on-rails",
+            "value": 2
+        },
+        {
+            "v": "docker",
+            "w": "security",
+            "value": 2
+        },
+        {
+            "v": "kubernetes",
+            "w": "ruby-on-rails",
+            "value": 2
+        },
+        {
+            "v": "security",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "security",
+            "w": "docker",
+            "value": 2
+        },
+        {
+            "v": "security",
+            "w": "continuous-integration",
+            "value": 1
+        },
+        {
+            "v": "continuous-integration",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "continuous-integration",
+            "w": "security",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "postgresql",
+            "value": 3
+        },
+        {
+            "v": "reactjs",
+            "w": "typescript",
+            "value": 2
+        },
+        {
+            "v": "postgresql",
+            "w": "reactjs",
+            "value": 3
+        },
+        {
+            "v": "postgresql",
+            "w": "elasticsearch",
+            "value": 1
+        },
+        {
+            "v": "postgresql",
+            "w": "node.js",
+            "value": 2
+        },
+        {
+            "v": "postgresql",
+            "w": "typescript",
+            "value": 2
+        },
+        {
+            "v": "elasticsearch",
+            "w": "postgresql",
+            "value": 1
+        },
+        {
+            "v": "elasticsearch",
+            "w": "typescript",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "postgresql",
+            "value": 2
+        },
+        {
+            "v": "node.js",
+            "w": "typescript",
+            "value": 2
+        },
+        {
+            "v": "typescript",
+            "w": "reactjs",
+            "value": 2
+        },
+        {
+            "v": "typescript",
+            "w": "postgresql",
+            "value": 2
+        },
+        {
+            "v": "typescript",
+            "w": "elasticsearch",
+            "value": 1
+        },
+        {
+            "v": "typescript",
+            "w": "node.js",
+            "value": 2
+        },
+        {
+            "v": "reactjs",
+            "w": "react-native",
+            "value": 2
+        },
+        {
+            "v": "reactjs",
+            "w": "next.js",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "react-native",
+            "value": 2
+        },
+        {
+            "v": "javascript",
+            "w": "next.js",
+            "value": 1
+        },
+        {
+            "v": "react-native",
+            "w": "reactjs",
+            "value": 2
+        },
+        {
+            "v": "react-native",
+            "w": "javascript",
+            "value": 2
+        },
+        {
+            "v": "react-native",
+            "w": "next.js",
+            "value": 1
+        },
+        {
+            "v": "react-native",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "next.js",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "next.js",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "next.js",
+            "w": "react-native",
+            "value": 1
+        },
+        {
+            "v": "next.js",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "react-native",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "next.js",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "postgresql",
+            "value": 4
+        },
+        {
+            "v": "ruby",
+            "w": "postgresql",
+            "value": 3
+        },
+        {
+            "v": "ruby",
+            "w": "javascript",
+            "value": 2
+        },
+        {
+            "v": "postgresql",
+            "w": "ruby-on-rails",
+            "value": 4
+        },
+        {
+            "v": "postgresql",
+            "w": "ruby",
+            "value": 3
+        },
+        {
+            "v": "postgresql",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "ruby",
+            "value": 2
+        },
+        {
+            "v": "javascript",
+            "w": "postgresql",
+            "value": 1
+        },
+        {
+            "v": "django",
+            "w": "javascript",
+            "value": 2
+        },
+        {
+            "v": "django",
+            "w": "redux",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "javascript",
+            "value": 2
+        },
+        {
+            "v": "javascript",
+            "w": "django",
+            "value": 2
+        },
+        {
+            "v": "javascript",
+            "w": "python",
+            "value": 2
+        },
+        {
+            "v": "javascript",
+            "w": "redux",
+            "value": 1
+        },
+        {
+            "v": "redux",
+            "w": "django",
+            "value": 1
+        },
+        {
+            "v": "redux",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "unit-testing",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "react-redux",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "sass",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "unit-testing",
+            "value": 1
+        },
+        {
+            "v": "react-redux",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "react-redux",
+            "w": "sass",
+            "value": 1
+        },
+        {
+            "v": "react-redux",
+            "w": "unit-testing",
+            "value": 1
+        },
+        {
+            "v": "sass",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "sass",
+            "w": "react-redux",
+            "value": 1
+        },
+        {
+            "v": "sass",
+            "w": "unit-testing",
+            "value": 1
+        },
+        {
+            "v": "unit-testing",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "unit-testing",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "unit-testing",
+            "w": "react-redux",
+            "value": 1
+        },
+        {
+            "v": "unit-testing",
+            "w": "sass",
+            "value": 1
+        },
+        {
+            "v": "project-management",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "project-management",
+            "w": "erp",
+            "value": 1
+        },
+        {
+            "v": "project-management",
+            "w": "bpm",
+            "value": 1
+        },
+        {
+            "v": "project-management",
+            "w": "workflow",
+            "value": 1
+        },
+        {
+            "v": "web-services",
+            "w": "project-management",
+            "value": 1
+        },
+        {
+            "v": "web-services",
+            "w": "erp",
+            "value": 1
+        },
+        {
+            "v": "web-services",
+            "w": "bpm",
+            "value": 1
+        },
+        {
+            "v": "web-services",
+            "w": "workflow",
+            "value": 1
+        },
+        {
+            "v": "erp",
+            "w": "project-management",
+            "value": 1
+        },
+        {
+            "v": "erp",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "erp",
+            "w": "bpm",
+            "value": 1
+        },
+        {
+            "v": "erp",
+            "w": "workflow",
+            "value": 1
+        },
+        {
+            "v": "bpm",
+            "w": "project-management",
+            "value": 1
+        },
+        {
+            "v": "bpm",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "bpm",
+            "w": "erp",
+            "value": 1
+        },
+        {
+            "v": "bpm",
+            "w": "workflow",
+            "value": 1
+        },
+        {
+            "v": "workflow",
+            "w": "project-management",
+            "value": 1
+        },
+        {
+            "v": "workflow",
+            "w": "web-services",
+            "value": 1
+        },
+        {
+            "v": "workflow",
+            "w": "erp",
+            "value": 1
+        },
+        {
+            "v": "workflow",
+            "w": "bpm",
+            "value": 1
+        },
+        {
+            "v": "ios",
+            "w": "multithreading",
+            "value": 1
+        },
+        {
+            "v": "ios",
+            "w": "push-notification",
+            "value": 1
+        },
+        {
+            "v": "android",
+            "w": "multithreading",
+            "value": 1
+        },
+        {
+            "v": "android",
+            "w": "push-notification",
+            "value": 1
+        },
+        {
+            "v": "mobile",
+            "w": "multithreading",
+            "value": 1
+        },
+        {
+            "v": "mobile",
+            "w": "push-notification",
+            "value": 1
+        },
+        {
+            "v": "multithreading",
+            "w": "ios",
+            "value": 1
+        },
+        {
+            "v": "multithreading",
+            "w": "android",
+            "value": 1
+        },
+        {
+            "v": "multithreading",
+            "w": "mobile",
+            "value": 1
+        },
+        {
+            "v": "multithreading",
+            "w": "push-notification",
+            "value": 1
+        },
+        {
+            "v": "push-notification",
+            "w": "ios",
+            "value": 1
+        },
+        {
+            "v": "push-notification",
+            "w": "android",
+            "value": 1
+        },
+        {
+            "v": "push-notification",
+            "w": "mobile",
+            "value": 1
+        },
+        {
+            "v": "push-notification",
+            "w": "multithreading",
+            "value": 1
+        },
+        {
+            "v": "go",
+            "w": "ruby",
+            "value": 1
+        },
+        {
+            "v": "go",
+            "w": "ruby-on-rails",
+            "value": 2
+        },
+        {
+            "v": "go",
+            "w": "redis",
+            "value": 1
+        },
+        {
+            "v": "go",
+            "w": "postgresql",
+            "value": 1
+        },
+        {
+            "v": "ruby",
+            "w": "go",
+            "value": 1
+        },
+        {
+            "v": "ruby",
+            "w": "redis",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "go",
+            "value": 2
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "redis",
+            "value": 1
+        },
+        {
+            "v": "redis",
+            "w": "go",
+            "value": 1
+        },
+        {
+            "v": "redis",
+            "w": "ruby",
+            "value": 1
+        },
+        {
+            "v": "redis",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "redis",
+            "w": "postgresql",
+            "value": 1
+        },
+        {
+            "v": "postgresql",
+            "w": "go",
+            "value": 1
+        },
+        {
+            "v": "postgresql",
+            "w": "redis",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "serverless-framework",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "serverless-framework",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "serverless-framework",
+            "value": 1
+        },
+        {
+            "v": "serverless-framework",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "serverless-framework",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "serverless-framework",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "serverless-framework",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "serverless-framework",
+            "value": 1
+        },
+        {
+            "v": "c#",
+            "w": "asp.net-mvc",
+            "value": 1
+        },
+        {
+            "v": "c#",
+            "w": "jquery",
+            "value": 1
+        },
+        {
+            "v": "asp.net-mvc",
+            "w": "c#",
+            "value": 1
+        },
+        {
+            "v": "asp.net-mvc",
+            "w": "react",
+            "value": 1
+        },
+        {
+            "v": "asp.net-mvc",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "asp.net-mvc",
+            "w": "jquery",
+            "value": 1
+        },
+        {
+            "v": "react",
+            "w": "asp.net-mvc",
+            "value": 1
+        },
+        {
+            "v": "react",
+            "w": "jquery",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "asp.net-mvc",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "jquery",
+            "value": 2
+        },
+        {
+            "v": "jquery",
+            "w": "c#",
+            "value": 1
+        },
+        {
+            "v": "jquery",
+            "w": "asp.net-mvc",
+            "value": 1
+        },
+        {
+            "v": "jquery",
+            "w": "react",
+            "value": 1
+        },
+        {
+            "v": "jquery",
+            "w": "javascript",
+            "value": 2
+        },
+        {
+            "v": "cloud",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "cloud",
+            "w": "microservices",
+            "value": 1
+        },
+        {
+            "v": "cloud",
+            "w": "jenkins",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "cloud",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "microservices",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "jenkins",
+            "value": 1
+        },
+        {
+            "v": "microservices",
+            "w": "cloud",
+            "value": 1
+        },
+        {
+            "v": "microservices",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "microservices",
+            "w": "jenkins",
+            "value": 1
+        },
+        {
+            "v": "jenkins",
+            "w": "cloud",
+            "value": 1
+        },
+        {
+            "v": "jenkins",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "jenkins",
+            "w": "microservices",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "saas",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "saas",
+            "value": 1
+        },
+        {
+            "v": "saas",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "saas",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "scala",
+            "w": "elastic-beanstalk",
+            "value": 1
+        },
+        {
+            "v": "scala",
+            "w": "amazon-emr",
+            "value": 1
+        },
+        {
+            "v": "apache-spark",
+            "w": "elastic-beanstalk",
+            "value": 1
+        },
+        {
+            "v": "apache-spark",
+            "w": "amazon-emr",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "elastic-beanstalk",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "amazon-emr",
+            "value": 1
+        },
+        {
+            "v": "elastic-beanstalk",
+            "w": "scala",
+            "value": 1
+        },
+        {
+            "v": "elastic-beanstalk",
+            "w": "apache-spark",
+            "value": 1
+        },
+        {
+            "v": "elastic-beanstalk",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "elastic-beanstalk",
+            "w": "amazon-emr",
+            "value": 1
+        },
+        {
+            "v": "amazon-emr",
+            "w": "scala",
+            "value": 1
+        },
+        {
+            "v": "amazon-emr",
+            "w": "apache-spark",
+            "value": 1
+        },
+        {
+            "v": "amazon-emr",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "amazon-emr",
+            "w": "elastic-beanstalk",
+            "value": 1
+        },
+        {
+            "v": "ruby",
+            "w": "backbone.js",
+            "value": 1
+        },
+        {
+            "v": "ruby",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "backbone.js",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "backbone.js",
+            "value": 1
+        },
+        {
+            "v": "backbone.js",
+            "w": "ruby",
+            "value": 1
+        },
+        {
+            "v": "backbone.js",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "backbone.js",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "backbone.js",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "ruby",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "backbone.js",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "react",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "json",
+            "value": 2
+        },
+        {
+            "v": "node.js",
+            "w": "xhtml",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "json",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "xhtml",
+            "value": 1
+        },
+        {
+            "v": "react",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "react",
+            "w": "json",
+            "value": 1
+        },
+        {
+            "v": "react",
+            "w": "xhtml",
+            "value": 1
+        },
+        {
+            "v": "json",
+            "w": "node.js",
+            "value": 2
+        },
+        {
+            "v": "json",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "json",
+            "w": "react",
+            "value": 1
+        },
+        {
+            "v": "json",
+            "w": "xhtml",
+            "value": 1
+        },
+        {
+            "v": "xhtml",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "xhtml",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "xhtml",
+            "w": "react",
+            "value": 1
+        },
+        {
+            "v": "xhtml",
+            "w": "json",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "mongodb",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "json",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "mongodb",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "mongodb",
+            "value": 1
+        },
+        {
+            "v": "mongodb",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "mongodb",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "mongodb",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "mongodb",
+            "w": "json",
+            "value": 1
+        },
+        {
+            "v": "json",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "json",
+            "w": "mongodb",
+            "value": 1
+        },
+        {
+            "v": "agile",
+            "w": "looker",
+            "value": 1
+        },
+        {
+            "v": "agile",
+            "w": "excel",
+            "value": 1
+        },
+        {
+            "v": "looker",
+            "w": "agile",
+            "value": 1
+        },
+        {
+            "v": "looker",
+            "w": "excel",
+            "value": 1
+        },
+        {
+            "v": "excel",
+            "w": "agile",
+            "value": 1
+        },
+        {
+            "v": "excel",
+            "w": "looker",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "kotlin",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "kotlin",
+            "value": 1
+        },
+        {
+            "v": "postgresql",
+            "w": "kotlin",
+            "value": 1
+        },
+        {
+            "v": "typescript",
+            "w": "kotlin",
+            "value": 1
+        },
+        {
+            "v": "kotlin",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "kotlin",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "kotlin",
+            "w": "postgresql",
+            "value": 1
+        },
+        {
+            "v": "kotlin",
+            "w": "typescript",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "project-management",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "angular-fullstack",
+            "value": 1
+        },
+        {
+            "v": "project-management",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "project-management",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "project-management",
+            "w": "angular-fullstack",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "project-management",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "angular-fullstack",
+            "value": 1
+        },
+        {
+            "v": "angular-fullstack",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "angular-fullstack",
+            "w": "project-management",
+            "value": 1
+        },
+        {
+            "v": "angular-fullstack",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "android",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "android",
+            "w": "rx-java2",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "android",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "mobile",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "kotlin",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "rx-java2",
+            "value": 1
+        },
+        {
+            "v": "mobile",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "mobile",
+            "w": "kotlin",
+            "value": 1
+        },
+        {
+            "v": "mobile",
+            "w": "rx-java2",
+            "value": 1
+        },
+        {
+            "v": "kotlin",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "kotlin",
+            "w": "mobile",
+            "value": 1
+        },
+        {
+            "v": "kotlin",
+            "w": "rx-java2",
+            "value": 1
+        },
+        {
+            "v": "rx-java2",
+            "w": "android",
+            "value": 1
+        },
+        {
+            "v": "rx-java2",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "rx-java2",
+            "w": "mobile",
+            "value": 1
+        },
+        {
+            "v": "rx-java2",
+            "w": "kotlin",
+            "value": 1
+        },
+        {
+            "v": "ios",
+            "w": "functional-programming",
+            "value": 1
+        },
+        {
+            "v": "objective-c",
+            "w": "functional-programming",
+            "value": 1
+        },
+        {
+            "v": "objective-c",
+            "w": "mobile",
+            "value": 1
+        },
+        {
+            "v": "swift",
+            "w": "functional-programming",
+            "value": 1
+        },
+        {
+            "v": "swift",
+            "w": "mobile",
+            "value": 1
+        },
+        {
+            "v": "functional-programming",
+            "w": "ios",
+            "value": 1
+        },
+        {
+            "v": "functional-programming",
+            "w": "objective-c",
+            "value": 1
+        },
+        {
+            "v": "functional-programming",
+            "w": "swift",
+            "value": 1
+        },
+        {
+            "v": "functional-programming",
+            "w": "mobile",
+            "value": 1
+        },
+        {
+            "v": "mobile",
+            "w": "objective-c",
+            "value": 1
+        },
+        {
+            "v": "mobile",
+            "w": "swift",
+            "value": 1
+        },
+        {
+            "v": "mobile",
+            "w": "functional-programming",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "aws-lambda",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "amazon-ec2",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "go",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "aws-lambda",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "amazon-ec2",
+            "value": 1
+        },
+        {
+            "v": "go",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "go",
+            "w": "aws-lambda",
+            "value": 1
+        },
+        {
+            "v": "go",
+            "w": "amazon-ec2",
+            "value": 1
+        },
+        {
+            "v": "aws-lambda",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "aws-lambda",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "aws-lambda",
+            "w": "go",
+            "value": 1
+        },
+        {
+            "v": "aws-lambda",
+            "w": "amazon-ec2",
+            "value": 1
+        },
+        {
+            "v": "amazon-ec2",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "amazon-ec2",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "amazon-ec2",
+            "w": "go",
+            "value": 1
+        },
+        {
+            "v": "amazon-ec2",
+            "w": "aws-lambda",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "rspec",
+            "value": 1
+        },
+        {
+            "v": "ruby",
+            "w": "rspec",
+            "value": 1
+        },
+        {
+            "v": "postgresql",
+            "w": "rspec",
+            "value": 1
+        },
+        {
+            "v": "rspec",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "rspec",
+            "w": "ruby",
+            "value": 1
+        },
+        {
+            "v": "rspec",
+            "w": "postgresql",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "tdd",
+            "value": 1
+        },
+        {
+            "v": "java-ee",
+            "w": "tdd",
+            "value": 1
+        },
+        {
+            "v": "java-ee",
+            "w": "api",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "tdd",
+            "value": 1
+        },
+        {
+            "v": "tdd",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "tdd",
+            "w": "java-ee",
+            "value": 1
+        },
+        {
+            "v": "tdd",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "tdd",
+            "w": "api",
+            "value": 1
+        },
+        {
+            "v": "api",
+            "w": "java-ee",
+            "value": 1
+        },
+        {
+            "v": "api",
+            "w": "tdd",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "jquery",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "css",
+            "value": 1
+        },
+        {
+            "v": "django",
+            "w": "jquery",
+            "value": 1
+        },
+        {
+            "v": "django",
+            "w": "css",
+            "value": 1
+        },
+        {
+            "v": "jquery",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "jquery",
+            "w": "django",
+            "value": 1
+        },
+        {
+            "v": "jquery",
+            "w": "css",
+            "value": 1
+        },
+        {
+            "v": "css",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "css",
+            "w": "django",
+            "value": 1
+        },
+        {
+            "v": "css",
+            "w": "jquery",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "vue.js",
+            "value": 1
+        },
+        {
+            "v": "vue.js",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "vue.js",
+            "w": "graphql",
+            "value": 1
+        },
+        {
+            "v": "vue.js",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "graphql",
+            "w": "vue.js",
+            "value": 1
+        },
+        {
+            "v": "graphql",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "graphql",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "vue.js",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "graphql",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "graphql",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "pandas",
+            "value": 1
+        },
+        {
+            "v": "machine-learning",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "machine-learning",
+            "w": "pandas",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "machine-learning",
+            "value": 1
+        },
+        {
+            "v": "sql",
+            "w": "pandas",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "pandas",
+            "value": 1
+        },
+        {
+            "v": "pandas",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "pandas",
+            "w": "machine-learning",
+            "value": 1
+        },
+        {
+            "v": "pandas",
+            "w": "sql",
+            "value": 1
+        },
+        {
+            "v": "pandas",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "angular",
+            "value": 2
+        },
+        {
+            "v": "angular",
+            "w": "ruby-on-rails",
+            "value": 2
+        },
+        {
+            "v": "angular",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "angular",
+            "w": "docker",
+            "value": 1
+        },
+        {
+            "v": "angular",
+            "w": "kubernetes",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "kubernetes",
+            "value": 1
+        },
+        {
+            "v": "docker",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "kubernetes",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "kubernetes",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "google-cloud-platform",
+            "value": 1
+        },
+        {
+            "v": "google-cloud-platform",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "google-cloud-platform",
+            "w": "kubernetes",
+            "value": 1
+        },
+        {
+            "v": "google-cloud-platform",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "google-cloud-platform",
+            "w": "terraform",
+            "value": 1
+        },
+        {
+            "v": "kubernetes",
+            "w": "google-cloud-platform",
+            "value": 1
+        },
+        {
+            "v": "kubernetes",
+            "w": "terraform",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "google-cloud-platform",
+            "value": 1
+        },
+        {
+            "v": "terraform",
+            "w": "google-cloud-platform",
+            "value": 1
+        },
+        {
+            "v": "terraform",
+            "w": "kubernetes",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "mysql",
+            "value": 1
+        },
+        {
+            "v": "ruby-on-rails",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "postgresql",
+            "w": "mysql",
+            "value": 1
+        },
+        {
+            "v": "postgresql",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "postgresql",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "postgresql",
+            "value": 1
+        },
+        {
+            "v": "mysql",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "angular",
+            "w": "postgresql",
+            "value": 1
+        },
+        {
+            "v": "angular",
+            "w": "mysql",
+            "value": 1
+        },
+        {
+            "v": "angular",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "ruby-on-rails",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "postgresql",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "angular",
+            "value": 1
+        },
+        {
+            "v": "amazon-web-services",
+            "w": "redis",
+            "value": 1
+        },
+        {
+            "v": "docker",
+            "w": "redis",
+            "value": 1
+        },
+        {
+            "v": "redis",
+            "w": "amazon-web-services",
+            "value": 1
+        },
+        {
+            "v": "redis",
+            "w": "docker",
+            "value": 1
+        },
+        {
+            "v": "redis",
+            "w": "security",
+            "value": 1
+        },
+        {
+            "v": "redis",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "redis",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "security",
+            "w": "redis",
+            "value": 1
+        },
+        {
+            "v": "security",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "redis",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "security",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "sysadmin",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "redis",
+            "value": 1
+        },
+        {
+            "v": "sysadmin",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "spring-boot",
+            "value": 1
+        },
+        {
+            "v": "spring-boot",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "spring-boot",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "spring-boot",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "css",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "d3.js",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "angularjs",
+            "value": 1
+        },
+        {
+            "v": "javascript",
+            "w": "d3.js",
+            "value": 1
+        },
+        {
+            "v": "css",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "css",
+            "w": "d3.js",
+            "value": 1
+        },
+        {
+            "v": "css",
+            "w": "angularjs",
+            "value": 1
+        },
+        {
+            "v": "d3.js",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "d3.js",
+            "w": "javascript",
+            "value": 1
+        },
+        {
+            "v": "d3.js",
+            "w": "css",
+            "value": 1
+        },
+        {
+            "v": "d3.js",
+            "w": "angularjs",
+            "value": 1
+        },
+        {
+            "v": "angularjs",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "angularjs",
+            "w": "css",
+            "value": 1
+        },
+        {
+            "v": "angularjs",
+            "w": "d3.js",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "apex",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "salesforce",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "salesforce-lightning",
+            "value": 1
+        },
+        {
+            "v": "apex",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "apex",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "apex",
+            "w": "salesforce",
+            "value": 1
+        },
+        {
+            "v": "apex",
+            "w": "salesforce-lightning",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "apex",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "salesforce",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "salesforce-lightning",
+            "value": 1
+        },
+        {
+            "v": "salesforce",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "salesforce",
+            "w": "apex",
+            "value": 1
+        },
+        {
+            "v": "salesforce",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "salesforce",
+            "w": "salesforce-lightning",
+            "value": 1
+        },
+        {
+            "v": "salesforce-lightning",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "salesforce-lightning",
+            "w": "apex",
+            "value": 1
+        },
+        {
+            "v": "salesforce-lightning",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "salesforce-lightning",
+            "w": "salesforce",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "oop",
+            "value": 2
+        },
+        {
+            "v": "java",
+            "w": "algorithm",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "data-structures",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "design-patterns",
+            "value": 1
+        },
+        {
+            "v": "oop",
+            "w": "java",
+            "value": 2
+        },
+        {
+            "v": "oop",
+            "w": "algorithm",
+            "value": 1
+        },
+        {
+            "v": "oop",
+            "w": "data-structures",
+            "value": 1
+        },
+        {
+            "v": "oop",
+            "w": "design-patterns",
+            "value": 1
+        },
+        {
+            "v": "algorithm",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "algorithm",
+            "w": "oop",
+            "value": 1
+        },
+        {
+            "v": "algorithm",
+            "w": "data-structures",
+            "value": 1
+        },
+        {
+            "v": "algorithm",
+            "w": "design-patterns",
+            "value": 1
+        },
+        {
+            "v": "data-structures",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "data-structures",
+            "w": "oop",
+            "value": 1
+        },
+        {
+            "v": "data-structures",
+            "w": "algorithm",
+            "value": 1
+        },
+        {
+            "v": "data-structures",
+            "w": "design-patterns",
+            "value": 1
+        },
+        {
+            "v": "design-patterns",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "design-patterns",
+            "w": "oop",
+            "value": 1
+        },
+        {
+            "v": "design-patterns",
+            "w": "algorithm",
+            "value": 1
+        },
+        {
+            "v": "design-patterns",
+            "w": "data-structures",
+            "value": 1
+        },
+        {
+            "v": "php",
+            "w": "laravel",
+            "value": 1
+        },
+        {
+            "v": "php",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "php",
+            "w": "spring",
+            "value": 1
+        },
+        {
+            "v": "laravel",
+            "w": "php",
+            "value": 1
+        },
+        {
+            "v": "laravel",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "laravel",
+            "w": "reactjs",
+            "value": 1
+        },
+        {
+            "v": "laravel",
+            "w": "spring",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "php",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "laravel",
+            "value": 1
+        },
+        {
+            "v": "reactjs",
+            "w": "laravel",
+            "value": 1
+        },
+        {
+            "v": "spring",
+            "w": "php",
+            "value": 1
+        },
+        {
+            "v": "spring",
+            "w": "laravel",
+            "value": 1
+        },
+        {
+            "v": "php",
+            "w": "react-native",
+            "value": 1
+        },
+        {
+            "v": "react-native",
+            "w": "php",
+            "value": 1
+        },
+        {
+            "v": "react-native",
+            "w": "node.js",
+            "value": 1
+        },
+        {
+            "v": "node.js",
+            "w": "react-native",
+            "value": 1
+        },
+        {
+            "v": "java",
+            "w": "distributed-system",
+            "value": 1
+        },
+        {
+            "v": "c++",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "c++",
+            "w": "oop",
+            "value": 1
+        },
+        {
+            "v": "c++",
+            "w": "distributed-system",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "c++",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "oop",
+            "value": 1
+        },
+        {
+            "v": "python",
+            "w": "distributed-system",
+            "value": 1
+        },
+        {
+            "v": "oop",
+            "w": "c++",
+            "value": 1
+        },
+        {
+            "v": "oop",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "oop",
+            "w": "distributed-system",
+            "value": 1
+        },
+        {
+            "v": "distributed-system",
+            "w": "java",
+            "value": 1
+        },
+        {
+            "v": "distributed-system",
+            "w": "c++",
+            "value": 1
+        },
+        {
+            "v": "distributed-system",
+            "w": "python",
+            "value": 1
+        },
+        {
+            "v": "distributed-system",
+            "w": "oop",
+            "value": 1
+        }
+    ]
+}

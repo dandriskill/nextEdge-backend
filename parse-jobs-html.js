@@ -40,7 +40,7 @@ let jobs =
                                  }).filter((skill) => skill !== '' )
 
               return job
-          }).filter((job) => job['title'] !== "")
+          }).filter((job) => { return job['skills'] !== [] })
 
 fs.writeFileSync('./data/jobs.json', JSON.stringify(jobs, null, 2), 'utf-8')
 
